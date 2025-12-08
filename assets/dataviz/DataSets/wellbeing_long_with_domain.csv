@@ -4573,658 +4573,658 @@ United States,2020,safe_norm,0.746666666667,Safety
 United States,2021,safe_norm,0.746666666667,Safety
 United States,2022,safe_norm,0.746666666667,Safety
 United States,2023,safe_norm,0.715,Safety
-Australia,2006,housing_cost_norm,0.2276998909427906,Housing
-Australia,2007,housing_cost_norm,0.2222642996299884,Housing
-Australia,2008,housing_cost_norm,0.1908298619553251,Housing
-Australia,2009,housing_cost_norm,0.25226456220283,Housing
-Australia,2010,housing_cost_norm,0.2291537010306957,Housing
-Australia,2011,housing_cost_norm,0.2598038133703308,Housing
-Australia,2012,housing_cost_norm,0.3137796045688636,Housing
-Australia,2013,housing_cost_norm,0.3053376147038509,Housing
-Australia,2014,housing_cost_norm,0.2955780620340893,Housing
-Australia,2015,housing_cost_norm,0.3117876984730732,Housing
-Australia,2016,housing_cost_norm,0.313435568062036,Housing
-Australia,2017,housing_cost_norm,0.3219391675217232,Housing
-Australia,2018,housing_cost_norm,0.2982372833491685,Housing
-Australia,2019,housing_cost_norm,0.2482549788712118,Housing
-Australia,2020,housing_cost_norm,0.2069307915854635,Housing
-Australia,2021,housing_cost_norm,0.1400066788754954,Housing
-Australia,2022,housing_cost_norm,0.2074543059783096,Housing
-Australia,2023,housing_cost_norm,0.268177442746213,Housing
-Austria,2006,housing_cost_norm,0.2609296166976941,Housing
-Austria,2007,housing_cost_norm,0.2198771348850019,Housing
-Austria,2008,housing_cost_norm,0.240743280570448,Housing
-Austria,2009,housing_cost_norm,0.2444887364745204,Housing
-Austria,2010,housing_cost_norm,0.3001400703135591,Housing
-Austria,2011,housing_cost_norm,0.3533367800871119,Housing
-Austria,2012,housing_cost_norm,0.3402020082533836,Housing
-Austria,2013,housing_cost_norm,0.4059509055163625,Housing
-Austria,2014,housing_cost_norm,0.4003601849156095,Housing
-Austria,2015,housing_cost_norm,0.4055297490199904,Housing
-Austria,2016,housing_cost_norm,0.3952565324153685,Housing
-Austria,2017,housing_cost_norm,0.4120845235166812,Housing
-Austria,2018,housing_cost_norm,0.3912509269116603,Housing
-Austria,2019,housing_cost_norm,0.4063533149223409,Housing
-Austria,2020,housing_cost_norm,0.4568135382476824,Housing
-Austria,2021,housing_cost_norm,0.4358564952805486,Housing
-Austria,2022,housing_cost_norm,0.4036873847927067,Housing
-Austria,2023,housing_cost_norm,0.3910243366144438,Housing
-Belgium,2006,housing_cost_norm,0.1521281833203551,Housing
-Belgium,2007,housing_cost_norm,0.1128601111671866,Housing
-Belgium,2008,housing_cost_norm,0.1589440730585472,Housing
-Belgium,2009,housing_cost_norm,0.1721534326523192,Housing
-Belgium,2010,housing_cost_norm,0.3034484744110697,Housing
-Belgium,2011,housing_cost_norm,0.346138020779092,Housing
-Belgium,2012,housing_cost_norm,0.3891906267041277,Housing
-Belgium,2013,housing_cost_norm,0.3906268268046978,Housing
-Belgium,2014,housing_cost_norm,0.331856856904176,Housing
-Belgium,2015,housing_cost_norm,0.3364042989830457,Housing
-Belgium,2016,housing_cost_norm,0.3266382787162428,Housing
-Belgium,2017,housing_cost_norm,0.3250395633648409,Housing
-Belgium,2018,housing_cost_norm,0.3105186018870063,Housing
-Belgium,2019,housing_cost_norm,0.2750120759005519,Housing
-Belgium,2020,housing_cost_norm,0.2454516646706082,Housing
-Belgium,2021,housing_cost_norm,0.279436307149525,Housing
-Belgium,2022,housing_cost_norm,0.358405888652216,Housing
-Belgium,2023,housing_cost_norm,0.2210798909693632,Housing
-Bulgaria,2006,housing_cost_norm,0.7895255045565409,Housing
-Bulgaria,2007,housing_cost_norm,0.7750346837451993,Housing
-Bulgaria,2008,housing_cost_norm,0.7046572414223855,Housing
-Bulgaria,2009,housing_cost_norm,0.723084384610335,Housing
-Bulgaria,2010,housing_cost_norm,0.8393669094601298,Housing
-Bulgaria,2011,housing_cost_norm,0.8185535471128955,Housing
-Bulgaria,2012,housing_cost_norm,0.9975893151798644,Housing
-Bulgaria,2013,housing_cost_norm,0.8419013020051981,Housing
-Bulgaria,2014,housing_cost_norm,0.7164627264431433,Housing
-Bulgaria,2015,housing_cost_norm,0.7362367923250497,Housing
-Bulgaria,2016,housing_cost_norm,0.6882504168944457,Housing
-Bulgaria,2017,housing_cost_norm,0.7216758077633179,Housing
-Bulgaria,2018,housing_cost_norm,0.6668806538259848,Housing
-Bulgaria,2019,housing_cost_norm,0.7264335163229874,Housing
-Bulgaria,2020,housing_cost_norm,0.6153945756448598,Housing
-Bulgaria,2021,housing_cost_norm,0.6701786521108293,Housing
-Bulgaria,2022,housing_cost_norm,0.6872603772738017,Housing
-Canada,2006,housing_cost_norm,0.5676115225439546,Housing
-Canada,2007,housing_cost_norm,0.583055848208196,Housing
-Canada,2008,housing_cost_norm,0.5731351539664505,Housing
-Canada,2009,housing_cost_norm,0.548850549241596,Housing
-Canada,2010,housing_cost_norm,0.5289247585542092,Housing
-Canada,2011,housing_cost_norm,0.5237319610506586,Housing
-Canada,2012,housing_cost_norm,0.5152990363007142,Housing
-Canada,2013,housing_cost_norm,0.5242876017573526,Housing
-Canada,2014,housing_cost_norm,0.5651573336374734,Housing
-Canada,2015,housing_cost_norm,0.5584369506422109,Housing
-Canada,2016,housing_cost_norm,0.616517103599284,Housing
-Canada,2017,housing_cost_norm,0.5910822902699475,Housing
-Canada,2018,housing_cost_norm,0.6041016332942971,Housing
-Canada,2019,housing_cost_norm,0.6184753605258129,Housing
-Canada,2020,housing_cost_norm,0.5258875888435792,Housing
-Canada,2021,housing_cost_norm,0.5664800282768958,Housing
-Canada,2022,housing_cost_norm,0.6110420775493857,Housing
-Canada,2023,housing_cost_norm,0.6158102032270917,Housing
-Colombia,2006,housing_cost_norm,0.139257668708544,Housing
-Colombia,2007,housing_cost_norm,0.0783688062575355,Housing
-Colombia,2008,housing_cost_norm,0.0602263919838523,Housing
-Colombia,2009,housing_cost_norm,0.0809812260265463,Housing
-Colombia,2010,housing_cost_norm,0.1045310754850963,Housing
-Colombia,2011,housing_cost_norm,0.0600747180090661,Housing
-Colombia,2012,housing_cost_norm,0.0666864149364929,Housing
-Colombia,2013,housing_cost_norm,0.0366136483141994,Housing
-Colombia,2014,housing_cost_norm,0.0425477761147445,Housing
-Colombia,2015,housing_cost_norm,0.0277096007023722,Housing
-Colombia,2016,housing_cost_norm,0.046177976149025,Housing
-Colombia,2017,housing_cost_norm,0.0225358981468287,Housing
-Colombia,2018,housing_cost_norm,0.0248007615682607,Housing
-Colombia,2019,housing_cost_norm,0.0313137846613704,Housing
-Colombia,2020,housing_cost_norm,0.1010855384045931,Housing
-Colombia,2021,housing_cost_norm,0.0016146070503959,Housing
-Colombia,2022,housing_cost_norm,0.0,Housing
-Costa Rica,2012,housing_cost_norm,0.2530383054483455,Housing
-Costa Rica,2013,housing_cost_norm,0.1261034429486229,Housing
-Costa Rica,2014,housing_cost_norm,0.1422768299826832,Housing
-Costa Rica,2015,housing_cost_norm,0.1543447772583297,Housing
-Costa Rica,2016,housing_cost_norm,0.0523477975283573,Housing
-Costa Rica,2017,housing_cost_norm,0.0,Housing
-Costa Rica,2018,housing_cost_norm,0.0,Housing
-Costa Rica,2019,housing_cost_norm,0.0,Housing
-Costa Rica,2020,housing_cost_norm,0.0,Housing
-Costa Rica,2021,housing_cost_norm,0.0,Housing
-Croatia,2011,housing_cost_norm,0.4095446028184111,Housing
-Croatia,2012,housing_cost_norm,0.4742123246465705,Housing
-Croatia,2013,housing_cost_norm,0.54197270356212,Housing
-Croatia,2014,housing_cost_norm,0.46387795532564,Housing
-Croatia,2015,housing_cost_norm,0.5270424033981171,Housing
-Croatia,2016,housing_cost_norm,0.4839616735328457,Housing
-Croatia,2017,housing_cost_norm,0.4719222865304601,Housing
-Croatia,2018,housing_cost_norm,0.4420362431356262,Housing
-Croatia,2019,housing_cost_norm,0.4203053869927261,Housing
-Croatia,2020,housing_cost_norm,0.3558211535010152,Housing
-Croatia,2021,housing_cost_norm,0.3073504483485206,Housing
-Croatia,2022,housing_cost_norm,0.3609797415997491,Housing
-Croatia,2023,housing_cost_norm,0.2358366166845632,Housing
-Czechia,2006,housing_cost_norm,0.7071211026402702,Housing
-Czechia,2007,housing_cost_norm,0.7145289958155685,Housing
-Czechia,2008,housing_cost_norm,0.7281885217740675,Housing
-Czechia,2009,housing_cost_norm,0.8451228991917397,Housing
-Czechia,2010,housing_cost_norm,1.0,Housing
-Czechia,2011,housing_cost_norm,1.0,Housing
-Czechia,2012,housing_cost_norm,1.0,Housing
-Czechia,2013,housing_cost_norm,1.0,Housing
-Czechia,2014,housing_cost_norm,0.9352619128836214,Housing
-Czechia,2015,housing_cost_norm,0.9742416703627552,Housing
-Czechia,2016,housing_cost_norm,0.9985311120477328,Housing
-Czechia,2017,housing_cost_norm,0.9781370418648592,Housing
-Czechia,2018,housing_cost_norm,0.9970705542613147,Housing
-Czechia,2019,housing_cost_norm,0.9765347148817792,Housing
-Czechia,2020,housing_cost_norm,0.9657590365532284,Housing
-Czechia,2021,housing_cost_norm,0.9620210120726822,Housing
-Czechia,2022,housing_cost_norm,0.9681945919339576,Housing
-Czechia,2023,housing_cost_norm,0.7985029977705467,Housing
-Czechia,2024,housing_cost_norm,0.8253871939278409,Housing
-Denmark,2006,housing_cost_norm,0.7128722131361873,Housing
-Denmark,2007,housing_cost_norm,0.7534956294857005,Housing
-Denmark,2008,housing_cost_norm,0.7814502688007767,Housing
-Denmark,2009,housing_cost_norm,0.7101459388743949,Housing
-Denmark,2010,housing_cost_norm,0.7791912428105756,Housing
-Denmark,2011,housing_cost_norm,0.770893799002593,Housing
-Denmark,2012,housing_cost_norm,0.8031532422644392,Housing
-Denmark,2013,housing_cost_norm,0.8785435587513694,Housing
-Denmark,2014,housing_cost_norm,0.8614216475440771,Housing
-Denmark,2015,housing_cost_norm,0.8162575517503456,Housing
-Denmark,2016,housing_cost_norm,0.7827058796211233,Housing
-Denmark,2017,housing_cost_norm,0.7816773130304385,Housing
-Denmark,2018,housing_cost_norm,0.7898845520760216,Housing
-Denmark,2019,housing_cost_norm,0.7848774985372666,Housing
-Denmark,2020,housing_cost_norm,0.8646221955185381,Housing
-Denmark,2021,housing_cost_norm,0.902764152990038,Housing
-Denmark,2022,housing_cost_norm,0.8374313554933902,Housing
-Denmark,2023,housing_cost_norm,0.5946651592645185,Housing
-Denmark,2024,housing_cost_norm,0.5625775825792969,Housing
-Estonia,2006,housing_cost_norm,0.4319658637950003,Housing
-Estonia,2007,housing_cost_norm,0.4202473209800821,Housing
-Estonia,2008,housing_cost_norm,0.1390336648631344,Housing
-Estonia,2009,housing_cost_norm,0.1411576479728148,Housing
-Estonia,2010,housing_cost_norm,0.2463720071701111,Housing
-Estonia,2011,housing_cost_norm,0.212651173502907,Housing
-Estonia,2012,housing_cost_norm,0.4025306090386824,Housing
-Estonia,2013,housing_cost_norm,0.3811419327234653,Housing
-Estonia,2014,housing_cost_norm,0.3932427116051425,Housing
-Estonia,2015,housing_cost_norm,0.3556791275528236,Housing
-Estonia,2016,housing_cost_norm,0.3655274242873816,Housing
-Estonia,2017,housing_cost_norm,0.352367425547721,Housing
-Estonia,2018,housing_cost_norm,0.2557240828224296,Housing
-Estonia,2019,housing_cost_norm,0.2810595705301142,Housing
-Estonia,2020,housing_cost_norm,0.2213008064805228,Housing
-Estonia,2021,housing_cost_norm,0.3048877537907203,Housing
-Estonia,2022,housing_cost_norm,0.6524877558461144,Housing
-Estonia,2023,housing_cost_norm,0.703322410683044,Housing
-Finland,2006,housing_cost_norm,0.4266110956769359,Housing
-Finland,2007,housing_cost_norm,0.3969066014210599,Housing
-Finland,2008,housing_cost_norm,0.3793719094982496,Housing
-Finland,2009,housing_cost_norm,0.3851084933080166,Housing
-Finland,2010,housing_cost_norm,0.4280561723102659,Housing
-Finland,2011,housing_cost_norm,0.450154444622419,Housing
-Finland,2012,housing_cost_norm,0.487434511729011,Housing
-Finland,2013,housing_cost_norm,0.5160948611127462,Housing
-Finland,2014,housing_cost_norm,0.5702895530093983,Housing
-Finland,2015,housing_cost_norm,0.6004931780133969,Housing
-Finland,2016,housing_cost_norm,0.6436868590504501,Housing
-Finland,2017,housing_cost_norm,0.6645532253102338,Housing
-Finland,2018,housing_cost_norm,0.6463887923561706,Housing
-Finland,2019,housing_cost_norm,0.626158869398124,Housing
-Finland,2020,housing_cost_norm,0.6519797954390463,Housing
-Finland,2021,housing_cost_norm,0.6689570835388453,Housing
-Finland,2022,housing_cost_norm,0.6877605649329315,Housing
-Finland,2023,housing_cost_norm,0.5357841172755637,Housing
-Finland,2024,housing_cost_norm,0.4613007707935495,Housing
-France,2006,housing_cost_norm,0.4200424936226768,Housing
-France,2007,housing_cost_norm,0.4026174528660398,Housing
-France,2008,housing_cost_norm,0.4121223901442641,Housing
-France,2009,housing_cost_norm,0.4258005612056507,Housing
-France,2010,housing_cost_norm,0.4374700181370302,Housing
-France,2011,housing_cost_norm,0.4397992857542444,Housing
-France,2012,housing_cost_norm,0.4863513323517011,Housing
-France,2013,housing_cost_norm,0.540060830056807,Housing
-France,2014,housing_cost_norm,0.5197741288876173,Housing
-France,2015,housing_cost_norm,0.5346011878468302,Housing
-France,2016,housing_cost_norm,0.5329793237887162,Housing
-France,2017,housing_cost_norm,0.5060313029881678,Housing
-France,2018,housing_cost_norm,0.5013836114647885,Housing
-France,2019,housing_cost_norm,0.4863051331428317,Housing
-France,2020,housing_cost_norm,0.4767798862630366,Housing
-France,2021,housing_cost_norm,0.4640707335475291,Housing
-France,2022,housing_cost_norm,0.4177034796003874,Housing
-France,2023,housing_cost_norm,0.3549786763520897,Housing
-Germany,2006,housing_cost_norm,0.3826389877633588,Housing
-Germany,2007,housing_cost_norm,0.3493619921916846,Housing
-Germany,2008,housing_cost_norm,0.382692806488887,Housing
-Germany,2009,housing_cost_norm,0.387961227368079,Housing
-Germany,2010,housing_cost_norm,0.4000194290539391,Housing
-Germany,2011,housing_cost_norm,0.3815611488700665,Housing
-Germany,2012,housing_cost_norm,0.4088002508127712,Housing
-Germany,2013,housing_cost_norm,0.4213138023222764,Housing
-Germany,2014,housing_cost_norm,0.3643885889854252,Housing
-Germany,2015,housing_cost_norm,0.3272492940720901,Housing
-Germany,2016,housing_cost_norm,0.2994521919805917,Housing
-Germany,2017,housing_cost_norm,0.269814760400569,Housing
-Germany,2018,housing_cost_norm,0.2306432842738379,Housing
-Germany,2019,housing_cost_norm,0.2313647059403853,Housing
-Germany,2020,housing_cost_norm,0.2589829041218005,Housing
-Germany,2021,housing_cost_norm,0.2483810790064484,Housing
-Germany,2022,housing_cost_norm,0.1994774882510708,Housing
-Germany,2023,housing_cost_norm,0.1692390606580582,Housing
-Germany,2024,housing_cost_norm,0.1113808733834126,Housing
-Greece,2006,housing_cost_norm,0.1648316099516789,Housing
-Greece,2007,housing_cost_norm,0.1588656959768096,Housing
-Greece,2008,housing_cost_norm,0.2641146265138998,Housing
-Greece,2009,housing_cost_norm,0.277053906988538,Housing
-Greece,2010,housing_cost_norm,0.4525133630356425,Housing
-Greece,2011,housing_cost_norm,0.7330042925090747,Housing
-Greece,2012,housing_cost_norm,0.8770762448417586,Housing
-Greece,2013,housing_cost_norm,0.8611974425608717,Housing
-Greece,2014,housing_cost_norm,0.6741833251930724,Housing
-Greece,2015,housing_cost_norm,0.7032939665181344,Housing
-Greece,2016,housing_cost_norm,0.7192955377084305,Housing
-Greece,2017,housing_cost_norm,0.7096999014817114,Housing
-Greece,2018,housing_cost_norm,0.7278192629812918,Housing
-Greece,2019,housing_cost_norm,0.6657510388705559,Housing
-Greece,2020,housing_cost_norm,0.8319447496331202,Housing
-Greece,2021,housing_cost_norm,0.7750896595755992,Housing
-Greece,2022,housing_cost_norm,0.86502551974656,Housing
-Greece,2023,housing_cost_norm,0.7190508144960499,Housing
-Hungary,2006,housing_cost_norm,0.2146031440988247,Housing
-Hungary,2007,housing_cost_norm,0.2827881187789764,Housing
-Hungary,2008,housing_cost_norm,0.3526392163654686,Housing
-Hungary,2009,housing_cost_norm,0.4365921771199612,Housing
-Hungary,2010,housing_cost_norm,0.5522131105300934,Housing
-Hungary,2011,housing_cost_norm,0.4405027386292,Housing
-Hungary,2012,housing_cost_norm,0.421020726423245,Housing
-Hungary,2013,housing_cost_norm,0.2947027979570942,Housing
-Hungary,2014,housing_cost_norm,0.1837818350911063,Housing
-Hungary,2015,housing_cost_norm,0.1992419809935173,Housing
-Hungary,2016,housing_cost_norm,0.2233724371606125,Housing
-Hungary,2017,housing_cost_norm,0.20150746888459,Housing
-Hungary,2018,housing_cost_norm,0.1882626178241547,Housing
-Hungary,2019,housing_cost_norm,0.2339598188908429,Housing
-Hungary,2020,housing_cost_norm,0.2918602997051611,Housing
-Hungary,2021,housing_cost_norm,0.2368349981155905,Housing
-Hungary,2022,housing_cost_norm,0.3015645223928597,Housing
-Hungary,2023,housing_cost_norm,0.1287395116762052,Housing
-Ireland,2006,housing_cost_norm,0.2577816901989489,Housing
-Ireland,2007,housing_cost_norm,0.3368709256330803,Housing
-Ireland,2008,housing_cost_norm,0.3277446957974614,Housing
-Ireland,2009,housing_cost_norm,0.1170207380686303,Housing
-Ireland,2010,housing_cost_norm,0.1139327413927524,Housing
-Ireland,2011,housing_cost_norm,0.1470325287406346,Housing
-Ireland,2012,housing_cost_norm,0.1628807985151663,Housing
-Ireland,2013,housing_cost_norm,0.2368087370072311,Housing
-Ireland,2014,housing_cost_norm,0.306768760759406,Housing
-Ireland,2015,housing_cost_norm,0.3464905447508077,Housing
-Ireland,2016,housing_cost_norm,0.3164783597930686,Housing
-Ireland,2017,housing_cost_norm,0.3245667655468042,Housing
-Ireland,2018,housing_cost_norm,0.4005930223116233,Housing
-Ireland,2019,housing_cost_norm,0.3367461281050311,Housing
-Ireland,2020,housing_cost_norm,0.197856926517511,Housing
-Ireland,2021,housing_cost_norm,0.2503484787616133,Housing
-Ireland,2022,housing_cost_norm,0.4261823093368815,Housing
-Ireland,2023,housing_cost_norm,0.3624033336228404,Housing
-Italy,2006,housing_cost_norm,0.3408001652373273,Housing
-Italy,2007,housing_cost_norm,0.3463871498799179,Housing
-Italy,2008,housing_cost_norm,0.3993134462866513,Housing
-Italy,2009,housing_cost_norm,0.4738014495059328,Housing
-Italy,2010,housing_cost_norm,0.5455564736818405,Housing
-Italy,2011,housing_cost_norm,0.5595101152966494,Housing
-Italy,2012,housing_cost_norm,0.6617061338267887,Housing
-Italy,2013,housing_cost_norm,0.6819630356430282,Housing
-Italy,2014,housing_cost_norm,0.6524213440553366,Housing
-Italy,2015,housing_cost_norm,0.6730892010412067,Housing
-Italy,2016,housing_cost_norm,0.6520726491589179,Housing
-Italy,2017,housing_cost_norm,0.6341499163932515,Housing
-Italy,2018,housing_cost_norm,0.6384607711275456,Housing
-Italy,2019,housing_cost_norm,0.6448674718996614,Housing
-Italy,2020,housing_cost_norm,0.6272758726453105,Housing
-Italy,2021,housing_cost_norm,0.6166486003649339,Housing
-Italy,2022,housing_cost_norm,0.7103898258914239,Housing
-Italy,2023,housing_cost_norm,0.5988781721638138,Housing
-Japan,2006,housing_cost_norm,0.4853738194098537,Housing
-Japan,2007,housing_cost_norm,0.4839797856635156,Housing
-Japan,2008,housing_cost_norm,0.534118634329397,Housing
-Japan,2009,housing_cost_norm,0.5375906677026199,Housing
-Japan,2010,housing_cost_norm,0.5596104400088511,Housing
-Japan,2011,housing_cost_norm,0.5485861320051755,Housing
-Japan,2012,housing_cost_norm,0.5640665016100657,Housing
-Japan,2013,housing_cost_norm,0.6013667346530345,Housing
-Japan,2014,housing_cost_norm,0.6142202621383104,Housing
-Japan,2015,housing_cost_norm,0.5275246168629909,Housing
-Japan,2016,housing_cost_norm,0.4706351315577229,Housing
-Japan,2017,housing_cost_norm,0.4681835241025958,Housing
-Japan,2018,housing_cost_norm,0.4539731497521769,Housing
-Japan,2019,housing_cost_norm,0.4024246344883375,Housing
-Japan,2020,housing_cost_norm,0.3290623167379135,Housing
-Japan,2021,housing_cost_norm,0.3992308290706213,Housing
-Japan,2022,housing_cost_norm,0.4284472819203827,Housing
-Japan,2023,housing_cost_norm,0.4198702752533002,Housing
-Korea,2006,housing_cost_norm,0.122720255008081,Housing
-Korea,2007,housing_cost_norm,0.063657115352195,Housing
-Korea,2008,housing_cost_norm,0.0,Housing
-Korea,2009,housing_cost_norm,0.0,Housing
-Korea,2010,housing_cost_norm,0.0,Housing
-Korea,2011,housing_cost_norm,0.0,Housing
-Korea,2012,housing_cost_norm,0.0,Housing
-Korea,2013,housing_cost_norm,0.0,Housing
-Korea,2014,housing_cost_norm,0.0,Housing
-Korea,2015,housing_cost_norm,0.0,Housing
-Korea,2016,housing_cost_norm,0.0,Housing
-Korea,2017,housing_cost_norm,0.0,Housing
-Korea,2018,housing_cost_norm,0.0,Housing
-Korea,2019,housing_cost_norm,0.0,Housing
-Korea,2020,housing_cost_norm,0.0,Housing
-Korea,2021,housing_cost_norm,0.0,Housing
-Korea,2022,housing_cost_norm,0.0,Housing
-Latvia,2006,housing_cost_norm,0.0,Housing
-Latvia,2007,housing_cost_norm,0.0,Housing
-Latvia,2008,housing_cost_norm,0.0,Housing
-Latvia,2009,housing_cost_norm,0.0199635776751435,Housing
-Latvia,2010,housing_cost_norm,0.1453662084577097,Housing
-Latvia,2011,housing_cost_norm,0.1945635102240283,Housing
-Latvia,2012,housing_cost_norm,0.2519677467583524,Housing
-Latvia,2013,housing_cost_norm,0.2279901766759008,Housing
-Latvia,2014,housing_cost_norm,0.2274179086144094,Housing
-Latvia,2015,housing_cost_norm,0.1356528676501385,Housing
-Latvia,2016,housing_cost_norm,0.0855992506111498,Housing
-Latvia,2017,housing_cost_norm,0.0070513362380657,Housing
-Latvia,2018,housing_cost_norm,0.0,Housing
-Latvia,2019,housing_cost_norm,0.0,Housing
-Latvia,2020,housing_cost_norm,0.0,Housing
-Latvia,2021,housing_cost_norm,0.0,Housing
-Latvia,2022,housing_cost_norm,0.1185208970746232,Housing
-Latvia,2023,housing_cost_norm,0.0,Housing
-Lithuania,2020,housing_cost_norm,0.0657059711420603,Housing
-Lithuania,2021,housing_cost_norm,0.0802412856381307,Housing
-Lithuania,2022,housing_cost_norm,0.2142155691786287,Housing
-Lithuania,2023,housing_cost_norm,0.1040132677507629,Housing
-Luxembourg,2006,housing_cost_norm,0.5780601329253121,Housing
-Luxembourg,2007,housing_cost_norm,0.5729580971911667,Housing
-Luxembourg,2008,housing_cost_norm,0.5965206157327259,Housing
-Luxembourg,2009,housing_cost_norm,0.5498967632904013,Housing
-Luxembourg,2010,housing_cost_norm,0.5620543470921635,Housing
-Luxembourg,2011,housing_cost_norm,0.5533999567812066,Housing
-Luxembourg,2012,housing_cost_norm,0.5388671210967548,Housing
-Luxembourg,2013,housing_cost_norm,0.474073464996216,Housing
-Luxembourg,2014,housing_cost_norm,0.5010920584320384,Housing
-Luxembourg,2015,housing_cost_norm,0.4876539309632559,Housing
-Luxembourg,2016,housing_cost_norm,0.4960501608222499,Housing
-Luxembourg,2017,housing_cost_norm,0.4478855576189294,Housing
-Luxembourg,2018,housing_cost_norm,0.4061963766443531,Housing
-Luxembourg,2019,housing_cost_norm,0.3176172947888441,Housing
-Luxembourg,2020,housing_cost_norm,0.1863993992720178,Housing
-Luxembourg,2021,housing_cost_norm,0.2295807787593722,Housing
-Luxembourg,2022,housing_cost_norm,0.1964985461329459,Housing
-Luxembourg,2023,housing_cost_norm,0.2074139161546525,Housing
-Mexico,2006,housing_cost_norm,0.7614484185460417,Housing
-Mexico,2007,housing_cost_norm,0.7507033135753745,Housing
-Mexico,2008,housing_cost_norm,0.7903555498287389,Housing
-Mexico,2009,housing_cost_norm,0.5928534656648032,Housing
-Mexico,2010,housing_cost_norm,0.5959243880432019,Housing
-Mexico,2011,housing_cost_norm,0.4474180205820364,Housing
-Mexico,2012,housing_cost_norm,0.3855372048695548,Housing
-Mexico,2013,housing_cost_norm,0.3349338529526096,Housing
-Mexico,2014,housing_cost_norm,0.3170628267753912,Housing
-Mexico,2015,housing_cost_norm,0.1789888789020902,Housing
-Mexico,2016,housing_cost_norm,0.2474770353428393,Housing
-Mexico,2017,housing_cost_norm,0.3112389600984756,Housing
-Mexico,2018,housing_cost_norm,0.3191873609132729,Housing
-Mexico,2019,housing_cost_norm,0.2530245149484839,Housing
-Mexico,2020,housing_cost_norm,0.3047554436578744,Housing
-Mexico,2021,housing_cost_norm,0.3768424758265282,Housing
-Mexico,2022,housing_cost_norm,0.4187915970774206,Housing
-Mexico,2023,housing_cost_norm,0.1843857319974459,Housing
-Netherlands,2006,housing_cost_norm,0.223622548600469,Housing
-Netherlands,2007,housing_cost_norm,0.1947196853132834,Housing
-Netherlands,2008,housing_cost_norm,0.2191733382832432,Housing
-Netherlands,2009,housing_cost_norm,0.1974502209721628,Housing
-Netherlands,2010,housing_cost_norm,0.2152810658228825,Housing
-Netherlands,2011,housing_cost_norm,0.2072740217148603,Housing
-Netherlands,2012,housing_cost_norm,0.2645084188671583,Housing
-Netherlands,2013,housing_cost_norm,0.3236981819013584,Housing
-Netherlands,2014,housing_cost_norm,0.3091265563534741,Housing
-Netherlands,2015,housing_cost_norm,0.3330413353537355,Housing
-Netherlands,2016,housing_cost_norm,0.3190542663506382,Housing
-Netherlands,2017,housing_cost_norm,0.317515804188367,Housing
-Netherlands,2018,housing_cost_norm,0.3085823507157725,Housing
-Netherlands,2019,housing_cost_norm,0.2854096524935667,Housing
-Netherlands,2020,housing_cost_norm,0.3256459461703949,Housing
-Netherlands,2021,housing_cost_norm,0.2929607944887595,Housing
-Netherlands,2022,housing_cost_norm,0.2634878013882243,Housing
-Netherlands,2023,housing_cost_norm,0.1767574556309719,Housing
-Netherlands,2024,housing_cost_norm,0.1281371568117971,Housing
-New Zealand,2006,housing_cost_norm,1.0,Housing
-New Zealand,2007,housing_cost_norm,0.9356411698977732,Housing
-New Zealand,2008,housing_cost_norm,0.987583029528618,Housing
-New Zealand,2009,housing_cost_norm,0.9330347663479386,Housing
-New Zealand,2010,housing_cost_norm,0.9249916974749176,Housing
-New Zealand,2011,housing_cost_norm,0.8907316193587871,Housing
-New Zealand,2012,housing_cost_norm,0.9509758874432216,Housing
-New Zealand,2013,housing_cost_norm,0.992533529974457,Housing
-New Zealand,2014,housing_cost_norm,1.0,Housing
-New Zealand,2015,housing_cost_norm,1.0,Housing
-New Zealand,2016,housing_cost_norm,1.0,Housing
-New Zealand,2017,housing_cost_norm,1.0,Housing
-New Zealand,2018,housing_cost_norm,1.0,Housing
-New Zealand,2019,housing_cost_norm,0.9950663910111563,Housing
-New Zealand,2020,housing_cost_norm,0.9458392903701895,Housing
-New Zealand,2021,housing_cost_norm,0.9908998112006214,Housing
-New Zealand,2022,housing_cost_norm,0.9979138685295882,Housing
-Norway,2006,housing_cost_norm,0.246974171984685,Housing
-Norway,2007,housing_cost_norm,0.1713729885168777,Housing
-Norway,2008,housing_cost_norm,0.1627145670144796,Housing
-Norway,2009,housing_cost_norm,0.0982161920780578,Housing
-Norway,2010,housing_cost_norm,0.1823734407388902,Housing
-Norway,2011,housing_cost_norm,0.0977642073420067,Housing
-Norway,2012,housing_cost_norm,0.0630206874214139,Housing
-Norway,2013,housing_cost_norm,0.0712060510169877,Housing
-Norway,2014,housing_cost_norm,0.0459649989551569,Housing
-Norway,2015,housing_cost_norm,0.035123034890733,Housing
-Norway,2016,housing_cost_norm,0.077618181574694,Housing
-Norway,2017,housing_cost_norm,0.0660252984094386,Housing
-Norway,2018,housing_cost_norm,0.0909424868253574,Housing
-Norway,2019,housing_cost_norm,0.0777788334718644,Housing
-Norway,2020,housing_cost_norm,0.0660052237856868,Housing
-Norway,2021,housing_cost_norm,0.1255685673521752,Housing
-Norway,2022,housing_cost_norm,0.1390456165006831,Housing
-Poland,2006,housing_cost_norm,0.4916314348548404,Housing
-Poland,2007,housing_cost_norm,0.4859751865977884,Housing
-Poland,2008,housing_cost_norm,0.4956385070458238,Housing
-Poland,2009,housing_cost_norm,0.6154916361481761,Housing
-Poland,2010,housing_cost_norm,0.4902650790735356,Housing
-Poland,2011,housing_cost_norm,0.5195358850994379,Housing
-Poland,2012,housing_cost_norm,0.5400421424391963,Housing
-Poland,2013,housing_cost_norm,0.4857934523007462,Housing
-Poland,2014,housing_cost_norm,0.4569528763544443,Housing
-Poland,2015,housing_cost_norm,0.5014055965008168,Housing
-Poland,2016,housing_cost_norm,0.4033535752453784,Housing
-Poland,2017,housing_cost_norm,0.3944184391637648,Housing
-Poland,2018,housing_cost_norm,0.3349065069741871,Housing
-Poland,2019,housing_cost_norm,0.3180762258609773,Housing
-Poland,2020,housing_cost_norm,0.2591279703672813,Housing
-Poland,2021,housing_cost_norm,0.3968874280855142,Housing
-Poland,2022,housing_cost_norm,0.4629761510823853,Housing
-Poland,2023,housing_cost_norm,0.4318612044616825,Housing
-Portugal,2006,housing_cost_norm,0.0,Housing
-Portugal,2007,housing_cost_norm,0.0,Housing
-Portugal,2008,housing_cost_norm,0.0,Housing
-Portugal,2009,housing_cost_norm,0.0053083030568397,Housing
-Portugal,2010,housing_cost_norm,0.0801038944904333,Housing
-Portugal,2011,housing_cost_norm,0.147388219140635,Housing
-Portugal,2012,housing_cost_norm,0.2426071537253901,Housing
-Portugal,2013,housing_cost_norm,0.2862301485850868,Housing
-Portugal,2014,housing_cost_norm,0.3760862366239602,Housing
-Portugal,2015,housing_cost_norm,0.3387169355929572,Housing
-Portugal,2016,housing_cost_norm,0.3087708762152726,Housing
-Portugal,2017,housing_cost_norm,0.2858485732195123,Housing
-Portugal,2018,housing_cost_norm,0.2621929468698352,Housing
-Portugal,2019,housing_cost_norm,0.236190873943805,Housing
-Portugal,2020,housing_cost_norm,0.3040303640511055,Housing
-Portugal,2021,housing_cost_norm,0.2113986681487979,Housing
-Portugal,2022,housing_cost_norm,0.1844161156859652,Housing
-Portugal,2023,housing_cost_norm,0.1065411973948664,Housing
-Portugal,2024,housing_cost_norm,0.0580913160427184,Housing
-Romania,2007,housing_cost_norm,1.0,Housing
-Romania,2008,housing_cost_norm,1.0,Housing
-Romania,2009,housing_cost_norm,1.0,Housing
-Romania,2010,housing_cost_norm,0.977219277805568,Housing
-Romania,2011,housing_cost_norm,1.0,Housing
-Romania,2012,housing_cost_norm,0.9682561351204394,Housing
-Romania,2013,housing_cost_norm,0.6273262726479495,Housing
-Romania,2014,housing_cost_norm,0.755358091893219,Housing
-Romania,2015,housing_cost_norm,0.8636928915003139,Housing
-Romania,2016,housing_cost_norm,0.7213241824708774,Housing
-Romania,2017,housing_cost_norm,0.7959578045835526,Housing
-Romania,2018,housing_cost_norm,0.7724822757412675,Housing
-Romania,2019,housing_cost_norm,0.5973445792145897,Housing
-Romania,2020,housing_cost_norm,0.5569084794071777,Housing
-Romania,2021,housing_cost_norm,0.6595226801206431,Housing
-Romania,2022,housing_cost_norm,0.8276836117308518,Housing
-Slovak Republic,2006,housing_cost_norm,1.0,Housing
-Slovak Republic,2007,housing_cost_norm,1.0,Housing
-Slovak Republic,2008,housing_cost_norm,1.0,Housing
-Slovak Republic,2009,housing_cost_norm,1.0,Housing
-Slovak Republic,2010,housing_cost_norm,1.0,Housing
-Slovak Republic,2011,housing_cost_norm,1.0,Housing
-Slovak Republic,2012,housing_cost_norm,1.0,Housing
-Slovak Republic,2013,housing_cost_norm,1.0,Housing
-Slovak Republic,2014,housing_cost_norm,1.0,Housing
-Slovak Republic,2015,housing_cost_norm,1.0,Housing
-Slovak Republic,2016,housing_cost_norm,1.0,Housing
-Slovak Republic,2017,housing_cost_norm,1.0,Housing
-Slovak Republic,2018,housing_cost_norm,1.0,Housing
-Slovak Republic,2019,housing_cost_norm,1.0,Housing
-Slovak Republic,2020,housing_cost_norm,1.0,Housing
-Slovak Republic,2021,housing_cost_norm,1.0,Housing
-Slovak Republic,2022,housing_cost_norm,1.0,Housing
-Slovak Republic,2023,housing_cost_norm,1.0,Housing
-Slovak Republic,2024,housing_cost_norm,1.0,Housing
-Slovenia,2006,housing_cost_norm,0.1631811106135081,Housing
-Slovenia,2007,housing_cost_norm,0.1777280642514136,Housing
-Slovenia,2008,housing_cost_norm,0.15824030848143,Housing
-Slovenia,2009,housing_cost_norm,0.2375008549635753,Housing
-Slovenia,2010,housing_cost_norm,0.3422556314101095,Housing
-Slovenia,2011,housing_cost_norm,0.3261283139318622,Housing
-Slovenia,2012,housing_cost_norm,0.3481650222621704,Housing
-Slovenia,2013,housing_cost_norm,0.3029252932549484,Housing
-Slovenia,2014,housing_cost_norm,0.2762351424452558,Housing
-Slovenia,2015,housing_cost_norm,0.2305545595694912,Housing
-Slovenia,2016,housing_cost_norm,0.2213862550727323,Housing
-Slovenia,2017,housing_cost_norm,0.1705510639371958,Housing
-Slovenia,2018,housing_cost_norm,0.1266096386305329,Housing
-Slovenia,2019,housing_cost_norm,0.1156605542380074,Housing
-Slovenia,2020,housing_cost_norm,0.0305979046383794,Housing
-Slovenia,2021,housing_cost_norm,0.0279969383204623,Housing
-Slovenia,2022,housing_cost_norm,0.0714498069243068,Housing
-Slovenia,2023,housing_cost_norm,0.0,Housing
-Spain,2006,housing_cost_norm,0.2580465227012672,Housing
-Spain,2007,housing_cost_norm,0.3281520094413999,Housing
-Spain,2008,housing_cost_norm,0.3390262697915993,Housing
-Spain,2009,housing_cost_norm,0.3974772601410397,Housing
-Spain,2010,housing_cost_norm,0.4903528307549128,Housing
-Spain,2011,housing_cost_norm,0.542089620506371,Housing
-Spain,2012,housing_cost_norm,0.6857686166594066,Housing
-Spain,2013,housing_cost_norm,0.6986038096134208,Housing
-Spain,2014,housing_cost_norm,0.6905560736108864,Housing
-Spain,2015,housing_cost_norm,0.6015270658037445,Housing
-Spain,2016,housing_cost_norm,0.5761641168898025,Housing
-Spain,2017,housing_cost_norm,0.573009636960149,Housing
-Spain,2018,housing_cost_norm,0.5563440811024178,Housing
-Spain,2019,housing_cost_norm,0.4776982734657607,Housing
-Spain,2020,housing_cost_norm,0.4187536538450689,Housing
-Spain,2021,housing_cost_norm,0.4524941408478425,Housing
-Spain,2022,housing_cost_norm,0.4686662607779333,Housing
-Spain,2023,housing_cost_norm,0.2996175052784953,Housing
-Sweden,2006,housing_cost_norm,0.5127296089934168,Housing
-Sweden,2007,housing_cost_norm,0.4724443691196243,Housing
-Sweden,2008,housing_cost_norm,0.4362321981356239,Housing
-Sweden,2009,housing_cost_norm,0.4484286371110866,Housing
-Sweden,2010,housing_cost_norm,0.4605172417480823,Housing
-Sweden,2011,housing_cost_norm,0.4034974682106089,Housing
-Sweden,2012,housing_cost_norm,0.3248950820419385,Housing
-Sweden,2013,housing_cost_norm,0.3122529669456665,Housing
-Sweden,2014,housing_cost_norm,0.3051710611848468,Housing
-Sweden,2015,housing_cost_norm,0.3034584141271437,Housing
-Sweden,2016,housing_cost_norm,0.2769856781743837,Housing
-Sweden,2017,housing_cost_norm,0.2802770660557659,Housing
-Sweden,2018,housing_cost_norm,0.3005725901659017,Housing
-Sweden,2019,housing_cost_norm,0.2967095539313676,Housing
-Sweden,2020,housing_cost_norm,0.3518636086357514,Housing
-Sweden,2021,housing_cost_norm,0.3696784849413813,Housing
-Sweden,2022,housing_cost_norm,0.3039128078315241,Housing
-Sweden,2023,housing_cost_norm,0.2048087457057059,Housing
-Switzerland,2006,housing_cost_norm,0.4354885818162262,Housing
-Switzerland,2007,housing_cost_norm,0.392363599842468,Housing
-Switzerland,2008,housing_cost_norm,0.4385150310117539,Housing
-Switzerland,2009,housing_cost_norm,0.4143715864718428,Housing
-Switzerland,2010,housing_cost_norm,0.4446696494806065,Housing
-Switzerland,2011,housing_cost_norm,0.4500430044897602,Housing
-Switzerland,2012,housing_cost_norm,0.445789617529106,Housing
-Switzerland,2013,housing_cost_norm,0.425096120828152,Housing
-Switzerland,2014,housing_cost_norm,0.416252265399927,Housing
-Switzerland,2015,housing_cost_norm,0.4361858804377549,Housing
-Switzerland,2016,housing_cost_norm,0.4486214663702094,Housing
-Switzerland,2017,housing_cost_norm,0.4686321043235673,Housing
-Switzerland,2018,housing_cost_norm,0.4761658897565669,Housing
-Switzerland,2019,housing_cost_norm,0.4743626815889492,Housing
-Switzerland,2020,housing_cost_norm,0.423194541810198,Housing
-Switzerland,2021,housing_cost_norm,0.4769449793670708,Housing
-Switzerland,2022,housing_cost_norm,0.4415382376742732,Housing
-Türkiye,2009,housing_cost_norm,0.5302943964155833,Housing
-Türkiye,2010,housing_cost_norm,0.5071675010076246,Housing
-Türkiye,2011,housing_cost_norm,0.4562553698771187,Housing
-Türkiye,2012,housing_cost_norm,0.4437605251500035,Housing
-Türkiye,2013,housing_cost_norm,0.3759172629617024,Housing
-Türkiye,2014,housing_cost_norm,0.3131689586051899,Housing
-Türkiye,2015,housing_cost_norm,0.2705785228502024,Housing
-Türkiye,2016,housing_cost_norm,0.2116578541176206,Housing
-Türkiye,2017,housing_cost_norm,0.1906726105837421,Housing
-Türkiye,2018,housing_cost_norm,0.1904916347032623,Housing
-Türkiye,2019,housing_cost_norm,0.1597201805726908,Housing
-Türkiye,2020,housing_cost_norm,0.1938058975165428,Housing
-Türkiye,2021,housing_cost_norm,0.1335430047006313,Housing
-Türkiye,2022,housing_cost_norm,0.1979206614895964,Housing
-United Kingdom,2006,housing_cost_norm,0.8529385743360307,Housing
-United Kingdom,2007,housing_cost_norm,0.8194736024885483,Housing
-United Kingdom,2008,housing_cost_norm,0.8168805675090315,Housing
-United Kingdom,2009,housing_cost_norm,0.7537093119391408,Housing
-United Kingdom,2010,housing_cost_norm,0.7819233169241073,Housing
-United Kingdom,2011,housing_cost_norm,0.7913085461246788,Housing
-United Kingdom,2012,housing_cost_norm,0.8252651612590709,Housing
-United Kingdom,2013,housing_cost_norm,0.834757085477459,Housing
-United Kingdom,2014,housing_cost_norm,0.8173894250952383,Housing
-United Kingdom,2015,housing_cost_norm,0.789447051620102,Housing
-United Kingdom,2016,housing_cost_norm,0.8507926992748458,Housing
-United Kingdom,2017,housing_cost_norm,0.8311213765525911,Housing
-United Kingdom,2018,housing_cost_norm,0.8168614793442484,Housing
-United Kingdom,2019,housing_cost_norm,0.7589265379610447,Housing
-United Kingdom,2020,housing_cost_norm,0.7399305126271732,Housing
-United Kingdom,2021,housing_cost_norm,0.7368442760455998,Housing
-United Kingdom,2022,housing_cost_norm,0.780596479039609,Housing
-United Kingdom,2023,housing_cost_norm,0.7033130941973675,Housing
-United States,2006,housing_cost_norm,0.2520631398170663,Housing
-United States,2007,housing_cost_norm,0.249461306094448,Housing
-United States,2008,housing_cost_norm,0.2438375941992787,Housing
-United States,2009,housing_cost_norm,0.2279787676744885,Housing
-United States,2010,housing_cost_norm,0.2034974490014758,Housing
-United States,2011,housing_cost_norm,0.1584155860084991,Housing
-United States,2012,housing_cost_norm,0.1083825788700374,Housing
-United States,2013,housing_cost_norm,0.1681869741639783,Housing
-United States,2014,housing_cost_norm,0.1379968489704502,Housing
-United States,2015,housing_cost_norm,0.1102015035164197,Housing
-United States,2016,housing_cost_norm,0.1127181161891913,Housing
-United States,2017,housing_cost_norm,0.0920896807000869,Housing
-United States,2018,housing_cost_norm,0.0780195969449293,Housing
-United States,2019,housing_cost_norm,0.0659778494677387,Housing
-United States,2020,housing_cost_norm,0.0198531630267306,Housing
-United States,2021,housing_cost_norm,0.0130057680309779,Housing
-United States,2022,housing_cost_norm,0.1556592226283633,Housing
-United States,2023,housing_cost_norm,0.1291384765526091,Housing
+Australia,2006,housing_cost_norm,0.7723001090572094,Housing
+Australia,2007,housing_cost_norm,0.7777357003700116,Housing
+Australia,2008,housing_cost_norm,0.8091701380446749,Housing
+Australia,2009,housing_cost_norm,0.74773543779717,Housing
+Australia,2010,housing_cost_norm,0.7708462989693042,Housing
+Australia,2011,housing_cost_norm,0.7401961866296691,Housing
+Australia,2012,housing_cost_norm,0.6862203954311363,Housing
+Australia,2013,housing_cost_norm,0.6946623852961491,Housing
+Australia,2014,housing_cost_norm,0.7044219379659107,Housing
+Australia,2015,housing_cost_norm,0.6882123015269268,Housing
+Australia,2016,housing_cost_norm,0.686564431937964,Housing
+Australia,2017,housing_cost_norm,0.6780608324782768,Housing
+Australia,2018,housing_cost_norm,0.7017627166508315,Housing
+Australia,2019,housing_cost_norm,0.7517450211287882,Housing
+Australia,2020,housing_cost_norm,0.7930692084145364,Housing
+Australia,2021,housing_cost_norm,0.8599933211245046,Housing
+Australia,2022,housing_cost_norm,0.7925456940216904,Housing
+Australia,2023,housing_cost_norm,0.731822557253787,Housing
+Austria,2006,housing_cost_norm,0.7390703833023059,Housing
+Austria,2007,housing_cost_norm,0.7801228651149981,Housing
+Austria,2008,housing_cost_norm,0.759256719429552,Housing
+Austria,2009,housing_cost_norm,0.7555112635254796,Housing
+Austria,2010,housing_cost_norm,0.6998599296864408,Housing
+Austria,2011,housing_cost_norm,0.6466632199128881,Housing
+Austria,2012,housing_cost_norm,0.6597979917466164,Housing
+Austria,2013,housing_cost_norm,0.5940490944836375,Housing
+Austria,2014,housing_cost_norm,0.5996398150843905,Housing
+Austria,2015,housing_cost_norm,0.5944702509800096,Housing
+Austria,2016,housing_cost_norm,0.6047434675846315,Housing
+Austria,2017,housing_cost_norm,0.5879154764833188,Housing
+Austria,2018,housing_cost_norm,0.6087490730883397,Housing
+Austria,2019,housing_cost_norm,0.593646685077659,Housing
+Austria,2020,housing_cost_norm,0.5431864617523176,Housing
+Austria,2021,housing_cost_norm,0.5641435047194514,Housing
+Austria,2022,housing_cost_norm,0.5963126152072933,Housing
+Austria,2023,housing_cost_norm,0.6089756633855562,Housing
+Belgium,2006,housing_cost_norm,0.8478718166796448,Housing
+Belgium,2007,housing_cost_norm,0.8871398888328134,Housing
+Belgium,2008,housing_cost_norm,0.8410559269414528,Housing
+Belgium,2009,housing_cost_norm,0.8278465673476808,Housing
+Belgium,2010,housing_cost_norm,0.6965515255889303,Housing
+Belgium,2011,housing_cost_norm,0.6538619792209079,Housing
+Belgium,2012,housing_cost_norm,0.6108093732958723,Housing
+Belgium,2013,housing_cost_norm,0.6093731731953022,Housing
+Belgium,2014,housing_cost_norm,0.668143143095824,Housing
+Belgium,2015,housing_cost_norm,0.6635957010169543,Housing
+Belgium,2016,housing_cost_norm,0.6733617212837572,Housing
+Belgium,2017,housing_cost_norm,0.674960436635159,Housing
+Belgium,2018,housing_cost_norm,0.6894813981129937,Housing
+Belgium,2019,housing_cost_norm,0.7249879240994481,Housing
+Belgium,2020,housing_cost_norm,0.7545483353293918,Housing
+Belgium,2021,housing_cost_norm,0.720563692850475,Housing
+Belgium,2022,housing_cost_norm,0.641594111347784,Housing
+Belgium,2023,housing_cost_norm,0.7789201090306368,Housing
+Bulgaria,2006,housing_cost_norm,0.2104744954434591,Housing
+Bulgaria,2007,housing_cost_norm,0.2249653162548007,Housing
+Bulgaria,2008,housing_cost_norm,0.2953427585776145,Housing
+Bulgaria,2009,housing_cost_norm,0.2769156153896649,Housing
+Bulgaria,2010,housing_cost_norm,0.1606330905398701,Housing
+Bulgaria,2011,housing_cost_norm,0.1814464528871044,Housing
+Bulgaria,2012,housing_cost_norm,0.0024106848201354,Housing
+Bulgaria,2013,housing_cost_norm,0.1580986979948019,Housing
+Bulgaria,2014,housing_cost_norm,0.2835372735568566,Housing
+Bulgaria,2015,housing_cost_norm,0.2637632076749503,Housing
+Bulgaria,2016,housing_cost_norm,0.3117495831055543,Housing
+Bulgaria,2017,housing_cost_norm,0.2783241922366822,Housing
+Bulgaria,2018,housing_cost_norm,0.3331193461740151,Housing
+Bulgaria,2019,housing_cost_norm,0.2735664836770126,Housing
+Bulgaria,2020,housing_cost_norm,0.3846054243551401,Housing
+Bulgaria,2021,housing_cost_norm,0.3298213478891707,Housing
+Bulgaria,2022,housing_cost_norm,0.3127396227261983,Housing
+Canada,2006,housing_cost_norm,0.4323884774560453,Housing
+Canada,2007,housing_cost_norm,0.416944151791804,Housing
+Canada,2008,housing_cost_norm,0.4268648460335494,Housing
+Canada,2009,housing_cost_norm,0.451149450758404,Housing
+Canada,2010,housing_cost_norm,0.4710752414457907,Housing
+Canada,2011,housing_cost_norm,0.4762680389493414,Housing
+Canada,2012,housing_cost_norm,0.4847009636992858,Housing
+Canada,2013,housing_cost_norm,0.4757123982426474,Housing
+Canada,2014,housing_cost_norm,0.4348426663625265,Housing
+Canada,2015,housing_cost_norm,0.4415630493577892,Housing
+Canada,2016,housing_cost_norm,0.383482896400716,Housing
+Canada,2017,housing_cost_norm,0.4089177097300525,Housing
+Canada,2018,housing_cost_norm,0.3958983667057029,Housing
+Canada,2019,housing_cost_norm,0.3815246394741872,Housing
+Canada,2020,housing_cost_norm,0.4741124111564208,Housing
+Canada,2021,housing_cost_norm,0.4335199717231042,Housing
+Canada,2022,housing_cost_norm,0.3889579224506143,Housing
+Canada,2023,housing_cost_norm,0.3841897967729083,Housing
+Colombia,2006,housing_cost_norm,0.8607423312914559,Housing
+Colombia,2007,housing_cost_norm,0.9216311937424644,Housing
+Colombia,2008,housing_cost_norm,0.9397736080161476,Housing
+Colombia,2009,housing_cost_norm,0.9190187739734536,Housing
+Colombia,2010,housing_cost_norm,0.8954689245149037,Housing
+Colombia,2011,housing_cost_norm,0.9399252819909338,Housing
+Colombia,2012,housing_cost_norm,0.933313585063507,Housing
+Colombia,2013,housing_cost_norm,0.9633863516858006,Housing
+Colombia,2014,housing_cost_norm,0.9574522238852554,Housing
+Colombia,2015,housing_cost_norm,0.9722903992976276,Housing
+Colombia,2016,housing_cost_norm,0.9538220238509748,Housing
+Colombia,2017,housing_cost_norm,0.9774641018531712,Housing
+Colombia,2018,housing_cost_norm,0.9751992384317392,Housing
+Colombia,2019,housing_cost_norm,0.9686862153386296,Housing
+Colombia,2020,housing_cost_norm,0.8989144615954069,Housing
+Colombia,2021,housing_cost_norm,0.998385392949604,Housing
+Colombia,2022,housing_cost_norm,1.0,Housing
+Costa Rica,2012,housing_cost_norm,0.7469616945516545,Housing
+Costa Rica,2013,housing_cost_norm,0.873896557051377,Housing
+Costa Rica,2014,housing_cost_norm,0.8577231700173168,Housing
+Costa Rica,2015,housing_cost_norm,0.8456552227416703,Housing
+Costa Rica,2016,housing_cost_norm,0.9476522024716426,Housing
+Costa Rica,2017,housing_cost_norm,1.0,Housing
+Costa Rica,2018,housing_cost_norm,1.0,Housing
+Costa Rica,2019,housing_cost_norm,1.0,Housing
+Costa Rica,2020,housing_cost_norm,1.0,Housing
+Costa Rica,2021,housing_cost_norm,1.0,Housing
+Croatia,2011,housing_cost_norm,0.5904553971815889,Housing
+Croatia,2012,housing_cost_norm,0.5257876753534295,Housing
+Croatia,2013,housing_cost_norm,0.4580272964378799,Housing
+Croatia,2014,housing_cost_norm,0.53612204467436,Housing
+Croatia,2015,housing_cost_norm,0.4729575966018828,Housing
+Croatia,2016,housing_cost_norm,0.5160383264671543,Housing
+Croatia,2017,housing_cost_norm,0.5280777134695399,Housing
+Croatia,2018,housing_cost_norm,0.5579637568643738,Housing
+Croatia,2019,housing_cost_norm,0.5796946130072739,Housing
+Croatia,2020,housing_cost_norm,0.6441788464989848,Housing
+Croatia,2021,housing_cost_norm,0.6926495516514793,Housing
+Croatia,2022,housing_cost_norm,0.6390202584002509,Housing
+Croatia,2023,housing_cost_norm,0.7641633833154368,Housing
+Czechia,2006,housing_cost_norm,0.2928788973597298,Housing
+Czechia,2007,housing_cost_norm,0.2854710041844315,Housing
+Czechia,2008,housing_cost_norm,0.2718114782259325,Housing
+Czechia,2009,housing_cost_norm,0.1548771008082604,Housing
+Czechia,2010,housing_cost_norm,0.0,Housing
+Czechia,2011,housing_cost_norm,0.0,Housing
+Czechia,2012,housing_cost_norm,0.0,Housing
+Czechia,2013,housing_cost_norm,0.0,Housing
+Czechia,2014,housing_cost_norm,0.0647380871163786,Housing
+Czechia,2015,housing_cost_norm,0.0257583296372447,Housing
+Czechia,2016,housing_cost_norm,0.0014688879522672,Housing
+Czechia,2017,housing_cost_norm,0.0218629581351408,Housing
+Czechia,2018,housing_cost_norm,0.0029294457386851,Housing
+Czechia,2019,housing_cost_norm,0.0234652851182208,Housing
+Czechia,2020,housing_cost_norm,0.0342409634467717,Housing
+Czechia,2021,housing_cost_norm,0.0379789879273178,Housing
+Czechia,2022,housing_cost_norm,0.0318054080660422,Housing
+Czechia,2023,housing_cost_norm,0.2014970022294533,Housing
+Czechia,2024,housing_cost_norm,0.1746128060721591,Housing
+Denmark,2006,housing_cost_norm,0.2871277868638127,Housing
+Denmark,2007,housing_cost_norm,0.2465043705142994,Housing
+Denmark,2008,housing_cost_norm,0.2185497311992232,Housing
+Denmark,2009,housing_cost_norm,0.2898540611256051,Housing
+Denmark,2010,housing_cost_norm,0.2208087571894243,Housing
+Denmark,2011,housing_cost_norm,0.229106200997407,Housing
+Denmark,2012,housing_cost_norm,0.1968467577355607,Housing
+Denmark,2013,housing_cost_norm,0.1214564412486306,Housing
+Denmark,2014,housing_cost_norm,0.1385783524559228,Housing
+Denmark,2015,housing_cost_norm,0.1837424482496543,Housing
+Denmark,2016,housing_cost_norm,0.2172941203788768,Housing
+Denmark,2017,housing_cost_norm,0.2183226869695615,Housing
+Denmark,2018,housing_cost_norm,0.2101154479239783,Housing
+Denmark,2019,housing_cost_norm,0.2151225014627334,Housing
+Denmark,2020,housing_cost_norm,0.1353778044814618,Housing
+Denmark,2021,housing_cost_norm,0.0972358470099619,Housing
+Denmark,2022,housing_cost_norm,0.1625686445066098,Housing
+Denmark,2023,housing_cost_norm,0.4053348407354816,Housing
+Denmark,2024,housing_cost_norm,0.4374224174207031,Housing
+Estonia,2006,housing_cost_norm,0.5680341362049997,Housing
+Estonia,2007,housing_cost_norm,0.5797526790199179,Housing
+Estonia,2008,housing_cost_norm,0.8609663351368656,Housing
+Estonia,2009,housing_cost_norm,0.8588423520271852,Housing
+Estonia,2010,housing_cost_norm,0.7536279928298889,Housing
+Estonia,2011,housing_cost_norm,0.7873488264970929,Housing
+Estonia,2012,housing_cost_norm,0.5974693909613176,Housing
+Estonia,2013,housing_cost_norm,0.6188580672765347,Housing
+Estonia,2014,housing_cost_norm,0.6067572883948574,Housing
+Estonia,2015,housing_cost_norm,0.6443208724471764,Housing
+Estonia,2016,housing_cost_norm,0.6344725757126184,Housing
+Estonia,2017,housing_cost_norm,0.647632574452279,Housing
+Estonia,2018,housing_cost_norm,0.7442759171775704,Housing
+Estonia,2019,housing_cost_norm,0.7189404294698858,Housing
+Estonia,2020,housing_cost_norm,0.7786991935194771,Housing
+Estonia,2021,housing_cost_norm,0.6951122462092797,Housing
+Estonia,2022,housing_cost_norm,0.3475122441538856,Housing
+Estonia,2023,housing_cost_norm,0.296677589316956,Housing
+Finland,2006,housing_cost_norm,0.5733889043230641,Housing
+Finland,2007,housing_cost_norm,0.6030933985789401,Housing
+Finland,2008,housing_cost_norm,0.6206280905017504,Housing
+Finland,2009,housing_cost_norm,0.6148915066919833,Housing
+Finland,2010,housing_cost_norm,0.5719438276897341,Housing
+Finland,2011,housing_cost_norm,0.549845555377581,Housing
+Finland,2012,housing_cost_norm,0.512565488270989,Housing
+Finland,2013,housing_cost_norm,0.4839051388872538,Housing
+Finland,2014,housing_cost_norm,0.4297104469906017,Housing
+Finland,2015,housing_cost_norm,0.3995068219866032,Housing
+Finland,2016,housing_cost_norm,0.3563131409495499,Housing
+Finland,2017,housing_cost_norm,0.3354467746897662,Housing
+Finland,2018,housing_cost_norm,0.3536112076438294,Housing
+Finland,2019,housing_cost_norm,0.3738411306018759,Housing
+Finland,2020,housing_cost_norm,0.3480202045609536,Housing
+Finland,2021,housing_cost_norm,0.3310429164611547,Housing
+Finland,2022,housing_cost_norm,0.3122394350670684,Housing
+Finland,2023,housing_cost_norm,0.4642158827244362,Housing
+Finland,2024,housing_cost_norm,0.5386992292064505,Housing
+France,2006,housing_cost_norm,0.5799575063773231,Housing
+France,2007,housing_cost_norm,0.5973825471339602,Housing
+France,2008,housing_cost_norm,0.5878776098557359,Housing
+France,2009,housing_cost_norm,0.5741994387943493,Housing
+France,2010,housing_cost_norm,0.5625299818629698,Housing
+France,2011,housing_cost_norm,0.5602007142457556,Housing
+France,2012,housing_cost_norm,0.5136486676482989,Housing
+France,2013,housing_cost_norm,0.459939169943193,Housing
+France,2014,housing_cost_norm,0.4802258711123827,Housing
+France,2015,housing_cost_norm,0.4653988121531698,Housing
+France,2016,housing_cost_norm,0.4670206762112838,Housing
+France,2017,housing_cost_norm,0.4939686970118322,Housing
+France,2018,housing_cost_norm,0.4986163885352115,Housing
+France,2019,housing_cost_norm,0.5136948668571683,Housing
+France,2020,housing_cost_norm,0.5232201137369634,Housing
+France,2021,housing_cost_norm,0.5359292664524709,Housing
+France,2022,housing_cost_norm,0.5822965203996125,Housing
+France,2023,housing_cost_norm,0.6450213236479103,Housing
+Germany,2006,housing_cost_norm,0.6173610122366412,Housing
+Germany,2007,housing_cost_norm,0.6506380078083154,Housing
+Germany,2008,housing_cost_norm,0.617307193511113,Housing
+Germany,2009,housing_cost_norm,0.612038772631921,Housing
+Germany,2010,housing_cost_norm,0.5999805709460608,Housing
+Germany,2011,housing_cost_norm,0.6184388511299335,Housing
+Germany,2012,housing_cost_norm,0.5911997491872287,Housing
+Germany,2013,housing_cost_norm,0.5786861976777236,Housing
+Germany,2014,housing_cost_norm,0.6356114110145747,Housing
+Germany,2015,housing_cost_norm,0.6727507059279099,Housing
+Germany,2016,housing_cost_norm,0.7005478080194083,Housing
+Germany,2017,housing_cost_norm,0.7301852395994309,Housing
+Germany,2018,housing_cost_norm,0.769356715726162,Housing
+Germany,2019,housing_cost_norm,0.7686352940596146,Housing
+Germany,2020,housing_cost_norm,0.7410170958781995,Housing
+Germany,2021,housing_cost_norm,0.7516189209935515,Housing
+Germany,2022,housing_cost_norm,0.8005225117489292,Housing
+Germany,2023,housing_cost_norm,0.8307609393419417,Housing
+Germany,2024,housing_cost_norm,0.8886191266165874,Housing
+Greece,2006,housing_cost_norm,0.8351683900483211,Housing
+Greece,2007,housing_cost_norm,0.8411343040231903,Housing
+Greece,2008,housing_cost_norm,0.7358853734861002,Housing
+Greece,2009,housing_cost_norm,0.722946093011462,Housing
+Greece,2010,housing_cost_norm,0.5474866369643575,Housing
+Greece,2011,housing_cost_norm,0.2669957074909253,Housing
+Greece,2012,housing_cost_norm,0.1229237551582413,Housing
+Greece,2013,housing_cost_norm,0.1388025574391282,Housing
+Greece,2014,housing_cost_norm,0.3258166748069275,Housing
+Greece,2015,housing_cost_norm,0.2967060334818656,Housing
+Greece,2016,housing_cost_norm,0.2807044622915696,Housing
+Greece,2017,housing_cost_norm,0.2903000985182886,Housing
+Greece,2018,housing_cost_norm,0.2721807370187081,Housing
+Greece,2019,housing_cost_norm,0.3342489611294441,Housing
+Greece,2020,housing_cost_norm,0.1680552503668798,Housing
+Greece,2021,housing_cost_norm,0.2249103404244009,Housing
+Greece,2022,housing_cost_norm,0.13497448025344,Housing
+Greece,2023,housing_cost_norm,0.2809491855039501,Housing
+Hungary,2006,housing_cost_norm,0.7853968559011753,Housing
+Hungary,2007,housing_cost_norm,0.7172118812210235,Housing
+Hungary,2008,housing_cost_norm,0.6473607836345314,Housing
+Hungary,2009,housing_cost_norm,0.5634078228800388,Housing
+Hungary,2010,housing_cost_norm,0.4477868894699066,Housing
+Hungary,2011,housing_cost_norm,0.5594972613708,Housing
+Hungary,2012,housing_cost_norm,0.5789792735767549,Housing
+Hungary,2013,housing_cost_norm,0.7052972020429058,Housing
+Hungary,2014,housing_cost_norm,0.8162181649088937,Housing
+Hungary,2015,housing_cost_norm,0.8007580190064827,Housing
+Hungary,2016,housing_cost_norm,0.7766275628393875,Housing
+Hungary,2017,housing_cost_norm,0.79849253111541,Housing
+Hungary,2018,housing_cost_norm,0.8117373821758452,Housing
+Hungary,2019,housing_cost_norm,0.7660401811091571,Housing
+Hungary,2020,housing_cost_norm,0.7081397002948389,Housing
+Hungary,2021,housing_cost_norm,0.7631650018844095,Housing
+Hungary,2022,housing_cost_norm,0.6984354776071403,Housing
+Hungary,2023,housing_cost_norm,0.8712604883237948,Housing
+Ireland,2006,housing_cost_norm,0.7422183098010511,Housing
+Ireland,2007,housing_cost_norm,0.6631290743669197,Housing
+Ireland,2008,housing_cost_norm,0.6722553042025385,Housing
+Ireland,2009,housing_cost_norm,0.8829792619313697,Housing
+Ireland,2010,housing_cost_norm,0.8860672586072476,Housing
+Ireland,2011,housing_cost_norm,0.8529674712593653,Housing
+Ireland,2012,housing_cost_norm,0.8371192014848337,Housing
+Ireland,2013,housing_cost_norm,0.7631912629927688,Housing
+Ireland,2014,housing_cost_norm,0.6932312392405939,Housing
+Ireland,2015,housing_cost_norm,0.6535094552491922,Housing
+Ireland,2016,housing_cost_norm,0.6835216402069314,Housing
+Ireland,2017,housing_cost_norm,0.6754332344531958,Housing
+Ireland,2018,housing_cost_norm,0.5994069776883767,Housing
+Ireland,2019,housing_cost_norm,0.6632538718949689,Housing
+Ireland,2020,housing_cost_norm,0.8021430734824889,Housing
+Ireland,2021,housing_cost_norm,0.7496515212383866,Housing
+Ireland,2022,housing_cost_norm,0.5738176906631185,Housing
+Ireland,2023,housing_cost_norm,0.6375966663771596,Housing
+Italy,2006,housing_cost_norm,0.6591998347626726,Housing
+Italy,2007,housing_cost_norm,0.6536128501200821,Housing
+Italy,2008,housing_cost_norm,0.6006865537133487,Housing
+Italy,2009,housing_cost_norm,0.5261985504940672,Housing
+Italy,2010,housing_cost_norm,0.4544435263181595,Housing
+Italy,2011,housing_cost_norm,0.4404898847033506,Housing
+Italy,2012,housing_cost_norm,0.3382938661732113,Housing
+Italy,2013,housing_cost_norm,0.3180369643569719,Housing
+Italy,2014,housing_cost_norm,0.3475786559446635,Housing
+Italy,2015,housing_cost_norm,0.3269107989587932,Housing
+Italy,2016,housing_cost_norm,0.3479273508410821,Housing
+Italy,2017,housing_cost_norm,0.3658500836067485,Housing
+Italy,2018,housing_cost_norm,0.3615392288724544,Housing
+Italy,2019,housing_cost_norm,0.3551325281003386,Housing
+Italy,2020,housing_cost_norm,0.3727241273546895,Housing
+Italy,2021,housing_cost_norm,0.3833513996350662,Housing
+Italy,2022,housing_cost_norm,0.2896101741085761,Housing
+Italy,2023,housing_cost_norm,0.4011218278361862,Housing
+Japan,2006,housing_cost_norm,0.5146261805901463,Housing
+Japan,2007,housing_cost_norm,0.5160202143364844,Housing
+Japan,2008,housing_cost_norm,0.465881365670603,Housing
+Japan,2009,housing_cost_norm,0.4624093322973801,Housing
+Japan,2010,housing_cost_norm,0.440389559991149,Housing
+Japan,2011,housing_cost_norm,0.4514138679948245,Housing
+Japan,2012,housing_cost_norm,0.4359334983899343,Housing
+Japan,2013,housing_cost_norm,0.3986332653469656,Housing
+Japan,2014,housing_cost_norm,0.3857797378616895,Housing
+Japan,2015,housing_cost_norm,0.4724753831370091,Housing
+Japan,2016,housing_cost_norm,0.529364868442277,Housing
+Japan,2017,housing_cost_norm,0.5318164758974042,Housing
+Japan,2018,housing_cost_norm,0.546026850247823,Housing
+Japan,2019,housing_cost_norm,0.5975753655116625,Housing
+Japan,2020,housing_cost_norm,0.6709376832620865,Housing
+Japan,2021,housing_cost_norm,0.6007691709293786,Housing
+Japan,2022,housing_cost_norm,0.5715527180796173,Housing
+Japan,2023,housing_cost_norm,0.5801297247466998,Housing
+Korea,2006,housing_cost_norm,0.877279744991919,Housing
+Korea,2007,housing_cost_norm,0.9363428846478048,Housing
+Korea,2008,housing_cost_norm,1.0,Housing
+Korea,2009,housing_cost_norm,1.0,Housing
+Korea,2010,housing_cost_norm,1.0,Housing
+Korea,2011,housing_cost_norm,1.0,Housing
+Korea,2012,housing_cost_norm,1.0,Housing
+Korea,2013,housing_cost_norm,1.0,Housing
+Korea,2014,housing_cost_norm,1.0,Housing
+Korea,2015,housing_cost_norm,1.0,Housing
+Korea,2016,housing_cost_norm,1.0,Housing
+Korea,2017,housing_cost_norm,1.0,Housing
+Korea,2018,housing_cost_norm,1.0,Housing
+Korea,2019,housing_cost_norm,1.0,Housing
+Korea,2020,housing_cost_norm,1.0,Housing
+Korea,2021,housing_cost_norm,1.0,Housing
+Korea,2022,housing_cost_norm,1.0,Housing
+Latvia,2006,housing_cost_norm,1.0,Housing
+Latvia,2007,housing_cost_norm,1.0,Housing
+Latvia,2008,housing_cost_norm,1.0,Housing
+Latvia,2009,housing_cost_norm,0.9800364223248564,Housing
+Latvia,2010,housing_cost_norm,0.8546337915422902,Housing
+Latvia,2011,housing_cost_norm,0.8054364897759717,Housing
+Latvia,2012,housing_cost_norm,0.7480322532416476,Housing
+Latvia,2013,housing_cost_norm,0.7720098233240992,Housing
+Latvia,2014,housing_cost_norm,0.7725820913855905,Housing
+Latvia,2015,housing_cost_norm,0.8643471323498615,Housing
+Latvia,2016,housing_cost_norm,0.9144007493888502,Housing
+Latvia,2017,housing_cost_norm,0.9929486637619342,Housing
+Latvia,2018,housing_cost_norm,1.0,Housing
+Latvia,2019,housing_cost_norm,1.0,Housing
+Latvia,2020,housing_cost_norm,1.0,Housing
+Latvia,2021,housing_cost_norm,1.0,Housing
+Latvia,2022,housing_cost_norm,0.8814791029253768,Housing
+Latvia,2023,housing_cost_norm,1.0,Housing
+Lithuania,2020,housing_cost_norm,0.9342940288579396,Housing
+Lithuania,2021,housing_cost_norm,0.9197587143618692,Housing
+Lithuania,2022,housing_cost_norm,0.7857844308213713,Housing
+Lithuania,2023,housing_cost_norm,0.8959867322492371,Housing
+Luxembourg,2006,housing_cost_norm,0.4219398670746879,Housing
+Luxembourg,2007,housing_cost_norm,0.4270419028088333,Housing
+Luxembourg,2008,housing_cost_norm,0.4034793842672742,Housing
+Luxembourg,2009,housing_cost_norm,0.4501032367095987,Housing
+Luxembourg,2010,housing_cost_norm,0.4379456529078365,Housing
+Luxembourg,2011,housing_cost_norm,0.4466000432187934,Housing
+Luxembourg,2012,housing_cost_norm,0.4611328789032451,Housing
+Luxembourg,2013,housing_cost_norm,0.525926535003784,Housing
+Luxembourg,2014,housing_cost_norm,0.4989079415679615,Housing
+Luxembourg,2015,housing_cost_norm,0.5123460690367441,Housing
+Luxembourg,2016,housing_cost_norm,0.50394983917775,Housing
+Luxembourg,2017,housing_cost_norm,0.5521144423810705,Housing
+Luxembourg,2018,housing_cost_norm,0.5938036233556468,Housing
+Luxembourg,2019,housing_cost_norm,0.6823827052111558,Housing
+Luxembourg,2020,housing_cost_norm,0.8136006007279821,Housing
+Luxembourg,2021,housing_cost_norm,0.7704192212406278,Housing
+Luxembourg,2022,housing_cost_norm,0.8035014538670541,Housing
+Luxembourg,2023,housing_cost_norm,0.7925860838453475,Housing
+Mexico,2006,housing_cost_norm,0.2385515814539583,Housing
+Mexico,2007,housing_cost_norm,0.2492966864246255,Housing
+Mexico,2008,housing_cost_norm,0.2096444501712611,Housing
+Mexico,2009,housing_cost_norm,0.4071465343351968,Housing
+Mexico,2010,housing_cost_norm,0.404075611956798,Housing
+Mexico,2011,housing_cost_norm,0.5525819794179636,Housing
+Mexico,2012,housing_cost_norm,0.6144627951304452,Housing
+Mexico,2013,housing_cost_norm,0.6650661470473904,Housing
+Mexico,2014,housing_cost_norm,0.6829371732246088,Housing
+Mexico,2015,housing_cost_norm,0.8210111210979097,Housing
+Mexico,2016,housing_cost_norm,0.7525229646571606,Housing
+Mexico,2017,housing_cost_norm,0.6887610399015244,Housing
+Mexico,2018,housing_cost_norm,0.6808126390867271,Housing
+Mexico,2019,housing_cost_norm,0.7469754850515161,Housing
+Mexico,2020,housing_cost_norm,0.6952445563421256,Housing
+Mexico,2021,housing_cost_norm,0.6231575241734718,Housing
+Mexico,2022,housing_cost_norm,0.5812084029225794,Housing
+Mexico,2023,housing_cost_norm,0.8156142680025541,Housing
+Netherlands,2006,housing_cost_norm,0.776377451399531,Housing
+Netherlands,2007,housing_cost_norm,0.8052803146867166,Housing
+Netherlands,2008,housing_cost_norm,0.7808266617167567,Housing
+Netherlands,2009,housing_cost_norm,0.8025497790278372,Housing
+Netherlands,2010,housing_cost_norm,0.7847189341771175,Housing
+Netherlands,2011,housing_cost_norm,0.7927259782851397,Housing
+Netherlands,2012,housing_cost_norm,0.7354915811328416,Housing
+Netherlands,2013,housing_cost_norm,0.6763018180986415,Housing
+Netherlands,2014,housing_cost_norm,0.6908734436465259,Housing
+Netherlands,2015,housing_cost_norm,0.6669586646462645,Housing
+Netherlands,2016,housing_cost_norm,0.6809457336493617,Housing
+Netherlands,2017,housing_cost_norm,0.682484195811633,Housing
+Netherlands,2018,housing_cost_norm,0.6914176492842274,Housing
+Netherlands,2019,housing_cost_norm,0.7145903475064332,Housing
+Netherlands,2020,housing_cost_norm,0.6743540538296051,Housing
+Netherlands,2021,housing_cost_norm,0.7070392055112404,Housing
+Netherlands,2022,housing_cost_norm,0.7365121986117756,Housing
+Netherlands,2023,housing_cost_norm,0.8232425443690281,Housing
+Netherlands,2024,housing_cost_norm,0.8718628431882028,Housing
+New Zealand,2006,housing_cost_norm,0.0,Housing
+New Zealand,2007,housing_cost_norm,0.0643588301022267,Housing
+New Zealand,2008,housing_cost_norm,0.0124169704713819,Housing
+New Zealand,2009,housing_cost_norm,0.0669652336520613,Housing
+New Zealand,2010,housing_cost_norm,0.0750083025250823,Housing
+New Zealand,2011,housing_cost_norm,0.1092683806412128,Housing
+New Zealand,2012,housing_cost_norm,0.0490241125567783,Housing
+New Zealand,2013,housing_cost_norm,0.007466470025543,Housing
+New Zealand,2014,housing_cost_norm,0.0,Housing
+New Zealand,2015,housing_cost_norm,0.0,Housing
+New Zealand,2016,housing_cost_norm,0.0,Housing
+New Zealand,2017,housing_cost_norm,0.0,Housing
+New Zealand,2018,housing_cost_norm,0.0,Housing
+New Zealand,2019,housing_cost_norm,0.0049336089888435,Housing
+New Zealand,2020,housing_cost_norm,0.0541607096298103,Housing
+New Zealand,2021,housing_cost_norm,0.0091001887993785,Housing
+New Zealand,2022,housing_cost_norm,0.0020861314704118,Housing
+Norway,2006,housing_cost_norm,0.7530258280153149,Housing
+Norway,2007,housing_cost_norm,0.8286270114831222,Housing
+Norway,2008,housing_cost_norm,0.8372854329855204,Housing
+Norway,2009,housing_cost_norm,0.901783807921942,Housing
+Norway,2010,housing_cost_norm,0.8176265592611097,Housing
+Norway,2011,housing_cost_norm,0.9022357926579933,Housing
+Norway,2012,housing_cost_norm,0.936979312578586,Housing
+Norway,2013,housing_cost_norm,0.9287939489830124,Housing
+Norway,2014,housing_cost_norm,0.9540350010448432,Housing
+Norway,2015,housing_cost_norm,0.9648769651092668,Housing
+Norway,2016,housing_cost_norm,0.922381818425306,Housing
+Norway,2017,housing_cost_norm,0.9339747015905614,Housing
+Norway,2018,housing_cost_norm,0.9090575131746426,Housing
+Norway,2019,housing_cost_norm,0.9222211665281356,Housing
+Norway,2020,housing_cost_norm,0.9339947762143131,Housing
+Norway,2021,housing_cost_norm,0.8744314326478247,Housing
+Norway,2022,housing_cost_norm,0.8609543834993169,Housing
+Poland,2006,housing_cost_norm,0.5083685651451596,Housing
+Poland,2007,housing_cost_norm,0.5140248134022116,Housing
+Poland,2008,housing_cost_norm,0.5043614929541762,Housing
+Poland,2009,housing_cost_norm,0.3845083638518238,Housing
+Poland,2010,housing_cost_norm,0.5097349209264643,Housing
+Poland,2011,housing_cost_norm,0.480464114900562,Housing
+Poland,2012,housing_cost_norm,0.4599578575608036,Housing
+Poland,2013,housing_cost_norm,0.5142065476992538,Housing
+Poland,2014,housing_cost_norm,0.5430471236455556,Housing
+Poland,2015,housing_cost_norm,0.4985944034991831,Housing
+Poland,2016,housing_cost_norm,0.5966464247546216,Housing
+Poland,2017,housing_cost_norm,0.6055815608362352,Housing
+Poland,2018,housing_cost_norm,0.6650934930258129,Housing
+Poland,2019,housing_cost_norm,0.6819237741390227,Housing
+Poland,2020,housing_cost_norm,0.7408720296327187,Housing
+Poland,2021,housing_cost_norm,0.6031125719144858,Housing
+Poland,2022,housing_cost_norm,0.5370238489176147,Housing
+Poland,2023,housing_cost_norm,0.5681387955383175,Housing
+Portugal,2006,housing_cost_norm,1.0,Housing
+Portugal,2007,housing_cost_norm,1.0,Housing
+Portugal,2008,housing_cost_norm,1.0,Housing
+Portugal,2009,housing_cost_norm,0.9946916969431604,Housing
+Portugal,2010,housing_cost_norm,0.9198961055095668,Housing
+Portugal,2011,housing_cost_norm,0.852611780859365,Housing
+Portugal,2012,housing_cost_norm,0.7573928462746099,Housing
+Portugal,2013,housing_cost_norm,0.7137698514149132,Housing
+Portugal,2014,housing_cost_norm,0.6239137633760398,Housing
+Portugal,2015,housing_cost_norm,0.6612830644070428,Housing
+Portugal,2016,housing_cost_norm,0.6912291237847273,Housing
+Portugal,2017,housing_cost_norm,0.7141514267804877,Housing
+Portugal,2018,housing_cost_norm,0.7378070531301648,Housing
+Portugal,2019,housing_cost_norm,0.763809126056195,Housing
+Portugal,2020,housing_cost_norm,0.6959696359488945,Housing
+Portugal,2021,housing_cost_norm,0.7886013318512021,Housing
+Portugal,2022,housing_cost_norm,0.8155838843140347,Housing
+Portugal,2023,housing_cost_norm,0.8934588026051336,Housing
+Portugal,2024,housing_cost_norm,0.9419086839572816,Housing
+Romania,2007,housing_cost_norm,0.0,Housing
+Romania,2008,housing_cost_norm,0.0,Housing
+Romania,2009,housing_cost_norm,0.0,Housing
+Romania,2010,housing_cost_norm,0.0227807221944318,Housing
+Romania,2011,housing_cost_norm,0.0,Housing
+Romania,2012,housing_cost_norm,0.0317438648795605,Housing
+Romania,2013,housing_cost_norm,0.3726737273520505,Housing
+Romania,2014,housing_cost_norm,0.244641908106781,Housing
+Romania,2015,housing_cost_norm,0.1363071084996861,Housing
+Romania,2016,housing_cost_norm,0.2786758175291226,Housing
+Romania,2017,housing_cost_norm,0.2040421954164474,Housing
+Romania,2018,housing_cost_norm,0.2275177242587325,Housing
+Romania,2019,housing_cost_norm,0.4026554207854103,Housing
+Romania,2020,housing_cost_norm,0.4430915205928222,Housing
+Romania,2021,housing_cost_norm,0.3404773198793569,Housing
+Romania,2022,housing_cost_norm,0.1723163882691482,Housing
+Slovak Republic,2006,housing_cost_norm,0.0,Housing
+Slovak Republic,2007,housing_cost_norm,0.0,Housing
+Slovak Republic,2008,housing_cost_norm,0.0,Housing
+Slovak Republic,2009,housing_cost_norm,0.0,Housing
+Slovak Republic,2010,housing_cost_norm,0.0,Housing
+Slovak Republic,2011,housing_cost_norm,0.0,Housing
+Slovak Republic,2012,housing_cost_norm,0.0,Housing
+Slovak Republic,2013,housing_cost_norm,0.0,Housing
+Slovak Republic,2014,housing_cost_norm,0.0,Housing
+Slovak Republic,2015,housing_cost_norm,0.0,Housing
+Slovak Republic,2016,housing_cost_norm,0.0,Housing
+Slovak Republic,2017,housing_cost_norm,0.0,Housing
+Slovak Republic,2018,housing_cost_norm,0.0,Housing
+Slovak Republic,2019,housing_cost_norm,0.0,Housing
+Slovak Republic,2020,housing_cost_norm,0.0,Housing
+Slovak Republic,2021,housing_cost_norm,0.0,Housing
+Slovak Republic,2022,housing_cost_norm,0.0,Housing
+Slovak Republic,2023,housing_cost_norm,0.0,Housing
+Slovak Republic,2024,housing_cost_norm,0.0,Housing
+Slovenia,2006,housing_cost_norm,0.8368188893864918,Housing
+Slovenia,2007,housing_cost_norm,0.8222719357485864,Housing
+Slovenia,2008,housing_cost_norm,0.84175969151857,Housing
+Slovenia,2009,housing_cost_norm,0.7624991450364247,Housing
+Slovenia,2010,housing_cost_norm,0.6577443685898905,Housing
+Slovenia,2011,housing_cost_norm,0.6738716860681377,Housing
+Slovenia,2012,housing_cost_norm,0.6518349777378296,Housing
+Slovenia,2013,housing_cost_norm,0.6970747067450516,Housing
+Slovenia,2014,housing_cost_norm,0.7237648575547442,Housing
+Slovenia,2015,housing_cost_norm,0.7694454404305088,Housing
+Slovenia,2016,housing_cost_norm,0.7786137449272676,Housing
+Slovenia,2017,housing_cost_norm,0.8294489360628041,Housing
+Slovenia,2018,housing_cost_norm,0.873390361369467,Housing
+Slovenia,2019,housing_cost_norm,0.8843394457619925,Housing
+Slovenia,2020,housing_cost_norm,0.9694020953616206,Housing
+Slovenia,2021,housing_cost_norm,0.9720030616795376,Housing
+Slovenia,2022,housing_cost_norm,0.9285501930756932,Housing
+Slovenia,2023,housing_cost_norm,1.0,Housing
+Spain,2006,housing_cost_norm,0.7419534772987327,Housing
+Spain,2007,housing_cost_norm,0.6718479905586001,Housing
+Spain,2008,housing_cost_norm,0.6609737302084007,Housing
+Spain,2009,housing_cost_norm,0.6025227398589603,Housing
+Spain,2010,housing_cost_norm,0.5096471692450871,Housing
+Spain,2011,housing_cost_norm,0.457910379493629,Housing
+Spain,2012,housing_cost_norm,0.3142313833405934,Housing
+Spain,2013,housing_cost_norm,0.3013961903865791,Housing
+Spain,2014,housing_cost_norm,0.3094439263891135,Housing
+Spain,2015,housing_cost_norm,0.3984729341962555,Housing
+Spain,2016,housing_cost_norm,0.4238358831101975,Housing
+Spain,2017,housing_cost_norm,0.4269903630398511,Housing
+Spain,2018,housing_cost_norm,0.4436559188975822,Housing
+Spain,2019,housing_cost_norm,0.5223017265342392,Housing
+Spain,2020,housing_cost_norm,0.5812463461549311,Housing
+Spain,2021,housing_cost_norm,0.5475058591521574,Housing
+Spain,2022,housing_cost_norm,0.5313337392220667,Housing
+Spain,2023,housing_cost_norm,0.7003824947215047,Housing
+Sweden,2006,housing_cost_norm,0.4872703910065831,Housing
+Sweden,2007,housing_cost_norm,0.5275556308803757,Housing
+Sweden,2008,housing_cost_norm,0.563767801864376,Housing
+Sweden,2009,housing_cost_norm,0.5515713628889134,Housing
+Sweden,2010,housing_cost_norm,0.5394827582519177,Housing
+Sweden,2011,housing_cost_norm,0.596502531789391,Housing
+Sweden,2012,housing_cost_norm,0.6751049179580615,Housing
+Sweden,2013,housing_cost_norm,0.6877470330543335,Housing
+Sweden,2014,housing_cost_norm,0.6948289388151532,Housing
+Sweden,2015,housing_cost_norm,0.6965415858728563,Housing
+Sweden,2016,housing_cost_norm,0.7230143218256163,Housing
+Sweden,2017,housing_cost_norm,0.719722933944234,Housing
+Sweden,2018,housing_cost_norm,0.6994274098340982,Housing
+Sweden,2019,housing_cost_norm,0.7032904460686323,Housing
+Sweden,2020,housing_cost_norm,0.6481363913642486,Housing
+Sweden,2021,housing_cost_norm,0.6303215150586187,Housing
+Sweden,2022,housing_cost_norm,0.6960871921684759,Housing
+Sweden,2023,housing_cost_norm,0.795191254294294,Housing
+Switzerland,2006,housing_cost_norm,0.5645114181837738,Housing
+Switzerland,2007,housing_cost_norm,0.607636400157532,Housing
+Switzerland,2008,housing_cost_norm,0.5614849689882461,Housing
+Switzerland,2009,housing_cost_norm,0.5856284135281572,Housing
+Switzerland,2010,housing_cost_norm,0.5553303505193935,Housing
+Switzerland,2011,housing_cost_norm,0.5499569955102398,Housing
+Switzerland,2012,housing_cost_norm,0.5542103824708939,Housing
+Switzerland,2013,housing_cost_norm,0.5749038791718479,Housing
+Switzerland,2014,housing_cost_norm,0.583747734600073,Housing
+Switzerland,2015,housing_cost_norm,0.563814119562245,Housing
+Switzerland,2016,housing_cost_norm,0.5513785336297906,Housing
+Switzerland,2017,housing_cost_norm,0.5313678956764327,Housing
+Switzerland,2018,housing_cost_norm,0.5238341102434331,Housing
+Switzerland,2019,housing_cost_norm,0.5256373184110508,Housing
+Switzerland,2020,housing_cost_norm,0.576805458189802,Housing
+Switzerland,2021,housing_cost_norm,0.5230550206329292,Housing
+Switzerland,2022,housing_cost_norm,0.5584617623257268,Housing
+Türkiye,2009,housing_cost_norm,0.4697056035844166,Housing
+Türkiye,2010,housing_cost_norm,0.4928324989923753,Housing
+Türkiye,2011,housing_cost_norm,0.5437446301228813,Housing
+Türkiye,2012,housing_cost_norm,0.5562394748499965,Housing
+Türkiye,2013,housing_cost_norm,0.6240827370382975,Housing
+Türkiye,2014,housing_cost_norm,0.6868310413948101,Housing
+Türkiye,2015,housing_cost_norm,0.7294214771497975,Housing
+Türkiye,2016,housing_cost_norm,0.7883421458823794,Housing
+Türkiye,2017,housing_cost_norm,0.8093273894162578,Housing
+Türkiye,2018,housing_cost_norm,0.8095083652967376,Housing
+Türkiye,2019,housing_cost_norm,0.8402798194273091,Housing
+Türkiye,2020,housing_cost_norm,0.8061941024834571,Housing
+Türkiye,2021,housing_cost_norm,0.8664569952993687,Housing
+Türkiye,2022,housing_cost_norm,0.8020793385104036,Housing
+United Kingdom,2006,housing_cost_norm,0.1470614256639692,Housing
+United Kingdom,2007,housing_cost_norm,0.1805263975114517,Housing
+United Kingdom,2008,housing_cost_norm,0.1831194324909685,Housing
+United Kingdom,2009,housing_cost_norm,0.2462906880608592,Housing
+United Kingdom,2010,housing_cost_norm,0.2180766830758926,Housing
+United Kingdom,2011,housing_cost_norm,0.2086914538753211,Housing
+United Kingdom,2012,housing_cost_norm,0.174734838740929,Housing
+United Kingdom,2013,housing_cost_norm,0.165242914522541,Housing
+United Kingdom,2014,housing_cost_norm,0.1826105749047616,Housing
+United Kingdom,2015,housing_cost_norm,0.210552948379898,Housing
+United Kingdom,2016,housing_cost_norm,0.1492073007251541,Housing
+United Kingdom,2017,housing_cost_norm,0.1688786234474089,Housing
+United Kingdom,2018,housing_cost_norm,0.1831385206557516,Housing
+United Kingdom,2019,housing_cost_norm,0.2410734620389552,Housing
+United Kingdom,2020,housing_cost_norm,0.2600694873728267,Housing
+United Kingdom,2021,housing_cost_norm,0.2631557239544002,Housing
+United Kingdom,2022,housing_cost_norm,0.2194035209603909,Housing
+United Kingdom,2023,housing_cost_norm,0.2966869058026325,Housing
+United States,2006,housing_cost_norm,0.7479368601829337,Housing
+United States,2007,housing_cost_norm,0.750538693905552,Housing
+United States,2008,housing_cost_norm,0.7561624058007212,Housing
+United States,2009,housing_cost_norm,0.7720212323255115,Housing
+United States,2010,housing_cost_norm,0.7965025509985242,Housing
+United States,2011,housing_cost_norm,0.8415844139915009,Housing
+United States,2012,housing_cost_norm,0.8916174211299626,Housing
+United States,2013,housing_cost_norm,0.8318130258360217,Housing
+United States,2014,housing_cost_norm,0.8620031510295497,Housing
+United States,2015,housing_cost_norm,0.8897984964835802,Housing
+United States,2016,housing_cost_norm,0.8872818838108086,Housing
+United States,2017,housing_cost_norm,0.9079103192999132,Housing
+United States,2018,housing_cost_norm,0.9219804030550708,Housing
+United States,2019,housing_cost_norm,0.9340221505322612,Housing
+United States,2020,housing_cost_norm,0.9801468369732692,Housing
+United States,2021,housing_cost_norm,0.986994231969022,Housing
+United States,2022,housing_cost_norm,0.8443407773716367,Housing
+United States,2023,housing_cost_norm,0.8708615234473909,Housing
 Australia,2019,life_sat_norm,0.75,Subjective well-being
 Australia,2020,life_sat_norm,0.72,Subjective well-being
 Austria,2013,life_sat_norm,0.78100056064,Subjective well-being
