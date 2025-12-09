@@ -1,1 +1,13 @@
-protocol of first data visualization
+<h1>Protocol of the Well-Being changes in Europe:</h1>
+
+<p>The visualization is based on a map of european countries colored according to a well-being index calculated from OECD data. The index reflects various dimensions of well-being, weighted according to Maslow's hierarchy of needs.
+</p><p> data used for the visualization can be downloaded as a CSV file in the previous page.
+</p><p></p>The initial data can be found on the source founf on the footer of the visualisation page.
+
+<h2>Preprocessing steps:</h2>
+</p><p>1. Data Cleaning: The original dataset from the OECD was cleaned to handle missing values. To address this, we employed interpolation techniques to estimate missing data points based on existing values.
+</p><p>2. Normalization: To ensure comparability across different indicators, we normalized the data using custom scaling methods for each column, taking into account their specific distributions and ranges and positive or negative meaning. So the result of an high unemployment is a low score.
+</p><p>3. Index Calculation: We assigned weights to each indicator based on their relevance to Maslow's hierarchy of needs. Indicators related to basic physiological and safety needs were given higher weights, while those related to self-actualization received lower weights. The weighted scores were then aggregated to compute the overall well-being index for each country.
+</p><p>4. Visualization: The processed data was visualized using an interactive map, where countries are colored based on their well-being index values. A color gradient from red (low well-being) to green (high well-being) was used to represent the index values visually.
+
+</p><p>The visualization allows users to explore the evolution of well-being across European countries over time, providing insights into how different nations have responded to various crises and challenges.</p>
