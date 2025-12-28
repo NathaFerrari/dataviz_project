@@ -1,227 +1,702 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Well-Being evolution during crisis | Data visualization course</title>
-		<meta name="description"content="A data story analyzing well-being evolution during crisis periods.">
-		<meta name="author" content="Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!-- allow webpage to be run in full-screen mode -->
-		<meta name="mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<!-- set nav bar color -->
-		<meta name="theme-color" content="black"> <!-- Chrome, Firefox OS and Opera -->
-		<meta name="msapplication-navbutton-color" content="black"> <!-- Windows Phone -->
-		<meta name="apple-mobile-web-app-status-bar-style" content="black"> <!-- iOS Safari -->
-		<link type="text/css" rel="stylesheet" href="assets/style/style.css">
-	
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-	
-		<script src="assets/script/script.js" defer></script>
-	</head>
-	<body>
-		<div id="topbar">
-			<nav>
-				<div class="go_home">
-					<a href="https://dataviz-supsi.github.io/2025/" title="Go back home">
-						<span>
-							←
-						</span>
-						<span>
-							Data visualization course
-						</span>
-					</a>
-				</div>
-			</nav>
-		</div>
-		<main>
-			<header>
-				<h1>
-					Well-Being evolution during crisis 
-				</h1>
-				<h2>This is the project subtitle</h2>
-				<h3>Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso</h3>
-			</header>
-			<article>
-                <section>
-                    <section id="abstract">
-                        <h2>
-                            Introduction to the European context
-                        </h2>
-                        <p>
-                            Over the past two decades, Europe has experienced a series of economic and geopolitical shocks that have had a direct impact on citizens' well-being: the 2008 financial crisis, the sovereign debt crisis, the COVID-19 pandemic and, more recently, the conflict in Ukraine. To visualise how European countries have responded to these events, we have constructed an Aggregate Wellbeing Index that combines economic, social and stability dimensions.
-                        </p>
-                        </section>
-                    <a name="highlight"></a>
-                    <figure>
-                        <div class="flourish-embed flourish-map" data-src="visualisation/26665780"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26665780/thumbnail" width="100%" alt="map visualization" /></noscript></div>
-                        <figcaption>Europe Map based on a well-being index</figcaption>
-                    </figure>
-                    <div class="download download_big">
-                        <div>
-                            <a href="assets\dataviz\protocols\01.html" title="Download visualization protocol" >
-                                Read the visualization protocol
-                            </a>
-                        </div>
-                        <div>
-                            <a href="assets\dataviz\DataSets\pivot_wellbeing_index.csv" title="Download dataset">
-                                ↓ Download the dataset
-                            </a>
-                        </div>
-                    </div>
-                </section>
-				<section>
-					<h4>
-						Geographical distribution of well-being
-					</h4>
-					<p>
-                        The interactive map shows how the level of well-being has evolved over time in different European countries. The greener colour indicates a higher index value, while the redder colours represent lower values.					
-                        The index is constructed by assigning a score to the various data provided by the OECD.  
-                        This score is then weighted according to the association of the columns with the different levels of Maslow's pyramid: scores relating to physical needs therefore have a greater weight within the index.  
-                        For a more detailed explanation, read the visualisation protocol.
-                    </p>
-                    <p>
-						Qui inseriremo l'analisi dei pattern geografici principali: es. Nord Europa con valori più alti, Est Europa più basso, recuperi progressivi nel Sud, ecc.					
-                    </p>					
-					<figure class="figure">
-                        <iframe src="assets/dataviz/vizualizations/radial_chart.html"
-                            width="100%"
-                            height="700"
-                            style="border:none;"></iframe>
-                    </figure>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Well-Being evolution during crisis | Data visualization course</title>
+  <meta name="description" content="A data story analyzing well-being evolution during crisis periods." />
+  <meta name="author" content="Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso" />
+  <meta name="theme-color" content="black" />
 
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-					<div class="download download_small">
-						<div>
-							<a href="path to do" title="Download visualization protocol" >
-								Read the visualization protocol
-							</a>
-						</div>
-						<div>
-							<a href="path to do" title="Download dataset">
-								↓ Download the dataset
-							</a>
-						</div>
-					</div>
-				</section>
-				<section>
-					<h4>
-						Dynamic indexes plot
-					</h4>
-					<p>
-                        Analisi dettagliata dei singoli indici nei vari paesi, con focus sui pattern più interessanti.
-                    </p>
-					<div>
-                        <div class="flourish-embed flourish-chart" data-src="visualisation/26681467"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26681467/thumbnail" width="100%" alt="chart visualization" /></noscript></div>					
-                    </div>
-					<div class="download download_small">
-						<div>
-							<a href="path to do" title="Download visualization protocol" >
-								Read the visualization protocol
-							</a>
-						</div>
-						<div>
-							<a href="path to do" title="Download dataset">
-								↓ Download the dataset (1MB)
-							</a>
-						</div>
-					</div>
-                    <h4>
-						Swiss Stability
-					</h4>
-					<p>
-                        Analisi del pattern elvetico, con focus sulla stabilità che contraddistingue il paese.
-                    </p>
-				</section>
-				<section>					
-					<div>
-                        <div class="flourish-embed flourish-chart" data-src="visualisation/26681467"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26681467/thumbnail" width="100%" alt="chart visualization" /></noscript></div>					
-                    </div>
-					<div class="download download_small">
-						<div>
-							<a href="path to do" title="Download visualization protocol" >
-								Read the visualization protocol
-							</a>
-						</div>
-						<div>
-							<a href="path to do" title="Download dataset">
-								↓ Download the dataset (1MB)
-							</a>
-						</div>
-					</div>
-                    <h4>
-						Echonomical power of Switzerland
-					</h4>
-					<p>
-                        Power of swiss economy even during crisis periods.
-                    </p>
-				</section>
-                <section>					
-					<div>
-                        <div class="flourish-embed flourish-map" data-src="visualisation/26680884"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26680884/thumbnail" width="100%" alt="map visualization" /></noscript></div>                    </div>
-					<div class="download download_small">
-						<div>
-							<a href="path to do" title="Download visualization protocol" >
-								Read the visualization protocol
-							</a>
-						</div>
-						<div>
-							<a href="path to do" title="Download dataset">
-								↓ Download the dataset (1MB)
-							</a>
-						</div>
-					</div>
-                    <h4>
-						Well-being change in crisis periods
-					</h4>
-					<p>
-                        cambi aspettati nelle direzioni attese, differenze tra regioni per ucraina, impatto non devastante del covid, ecc.
-                    </p>
-				</section>
-                <section>					
-					<div>
-                            <div class="flourish-embed flourish-map" data-src="visualisation/26680884"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26680884/thumbnail" width="100%" alt="map visualization" /></noscript></div>                    </div>
-					<div class="download download_small">
-						<div>
-							<a href="path to do" title="Download visualization protocol" >
-								Read the visualization protocol
-							</a>
-						</div>
-						<div>
-							<a href="path to do" title="Download dataset">
-								↓ Download the dataset (1MB)
-							</a>
-						</div>
-					</div>
-                    <h4>
-						Ev. Ucraina analisi dell'impatto della guerra
-					</h4>
-					<p>
-                        Da chiedere al prof se vogliamo tenere questa parte
-                    </p>
-				</section>
-			</article>
-			
-			<footer>
-				<section>
-					<div>
-						<strong>Project title</strong><br/>
-						Project subtitle<br/><br/>
-						Author n. 1<br/>
-						Author n. 2<br/>
-						Author n. 3
-					</div>
-					<div>
-						<strong>SUPSI</strong><br/>
-						Bachelor in Data Science and Artificial Intelligence<br/>
-						Data visualization course<br/><br/>
-						Teacher: Giovanni Profeta<br/>
-						Academic year: 2025-2026
-					</div>
-				</section>
-			</footer>
-		</main>
-	</body>
+  <style>
+    :root{
+      --bg: #0b0f14;
+      --panel: rgba(255,255,255,.06);
+      --panel-2: rgba(255,255,255,.085);
+      --text: rgba(255,255,255,.86);
+      --muted: rgba(255,255,255,.62);
+      --line: rgba(255,255,255,.12);
+
+      --accent: #7c5cff;   /* violet */
+      --accent2:#22c55e;   /* green */
+      --warn:   #f59e0b;   /* amber */
+
+      --shadow: 0 12px 30px rgba(0,0,0,.45);
+      --radius: 18px;
+
+      --max: 1100px;
+    }
+
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(1200px 700px at 20% -10%, rgba(124,92,255,.18), transparent 60%),
+        radial-gradient(900px 600px at 90% 10%, rgba(34,197,94,.10), transparent 55%),
+        radial-gradient(700px 500px at 50% 120%, rgba(245,158,11,.09), transparent 60%),
+        var(--bg);
+      line-height: 1.6;
+      letter-spacing: .2px;
+    }
+
+    a{ color:inherit; text-decoration:none; }
+    .container{ width:min(var(--max), calc(100% - 44px)); margin:0 auto; }
+
+    /* Header */
+    header{
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(10px);
+      background: linear-gradient(to bottom, rgba(11,15,20,.82), rgba(11,15,20,.38));
+      border-bottom: 1px solid var(--line);
+    }
+    .nav{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding: 14px 0;
+      gap: 16px;
+    }
+    .brand{
+      display:flex;
+      align-items:center;
+      gap: 10px;
+      font-weight: 700;
+      letter-spacing:.6px;
+      white-space: nowrap;
+    }
+    .dot{
+      width: 10px; height: 10px; border-radius:999px;
+      background: conic-gradient(from 180deg, var(--accent), var(--accent2), var(--warn), var(--accent));
+      box-shadow: 0 0 18px rgba(124,92,255,.35);
+    }
+    .navlinks{
+      display:flex; gap: 10px; flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 14px;
+      justify-content: flex-end;
+    }
+    .navlinks a{
+      padding: 8px 10px;
+      border-radius: 999px;
+      border: 1px solid transparent;
+      transition: .2s ease;
+    }
+    .navlinks a:hover{
+      border-color: var(--line);
+      background: rgba(255,255,255,.04);
+      color: var(--text);
+    }
+
+    /* Cards */
+    .card{
+      background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(255,255,255,.045));
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .cardPad{ padding: 22px; }
+
+    /* Hero */
+    section{ padding: 22px 0; }
+    .hero{ padding: 46px 0 22px; }
+    .heroGrid{
+      display:grid;
+      grid-template-columns: 1.25fr .75fr;
+      gap: 18px;
+      align-items: stretch;
+    }
+    @media (max-width: 920px){
+      .heroGrid{ grid-template-columns: 1fr; }
+    }
+
+    .kicker{
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    h1{
+      margin:0 0 12px;
+      font-size: clamp(30px, 3.4vw, 52px);
+      line-height: 1.08;
+    }
+    .lead{
+      margin:0 0 16px;
+      color: var(--muted);
+      font-size: 16px;
+      max-width: 70ch;
+    }
+    .chips{
+      display:flex; flex-wrap:wrap; gap:10px;
+      margin-top: 14px;
+    }
+    .chip{
+      font-size: 13px;
+      color: var(--muted);
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.03);
+      padding: 8px 10px;
+      border-radius: 999px;
+      display:inline-flex;
+      gap:8px;
+      align-items:center;
+    }
+    .chip b{ color: var(--text); font-weight: 600; }
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.04);
+      color: var(--text);
+      transition: .2s ease;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .btn:hover{
+      transform: translateY(-1px);
+      background: rgba(255,255,255,.06);
+      border-color: rgba(124,92,255,.35);
+    }
+
+    .sideStats{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .stat{
+      padding: 18px;
+      border-radius: 16px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.035);
+      min-height: 106px;
+    }
+    .stat .label{ color: var(--muted); font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }
+    .stat .value{ font-size: 18px; margin-top: 6px; font-weight: 700; }
+    .stat .hint{ color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+    /* Section title */
+    .sectionTitle{
+      display:flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 12px;
+    }
+    h2{
+      margin: 0;
+      font-size: clamp(20px, 2.1vw, 28px);
+      letter-spacing: .2px;
+    }
+    .sub{
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    /* Layout helpers */
+    .grid2{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    @media (max-width: 980px){
+      .grid2{ grid-template-columns: 1fr; }
+    }
+
+    .storyGrid{
+      display:grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 18px;
+      align-items: start;
+    }
+    @media (max-width: 980px){
+      .storyGrid{ grid-template-columns: 1fr; }
+      .sticky{ position: relative !important; top: auto !important; }
+    }
+
+    .sticky{
+      position: sticky;
+      top: 88px;
+    }
+
+    .steps{
+      display:flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .step{
+      padding: 18px;
+      border-radius: 16px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.03);
+    }
+    .step h3{
+      margin: 0 0 8px;
+      font-size: 16px;
+    }
+    .step p{
+      margin:0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    /* Viz blocks */
+    .vizHeader{
+      display:flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 16px 0;
+    }
+    .vizHeader .title{
+      font-weight: 700;
+      font-size: 14px;
+      letter-spacing: .2px;
+    }
+    .badge{
+      font-size: 12px;
+      color: rgba(255,255,255,.72);
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.03);
+      padding: 6px 10px;
+      border-radius: 999px;
+    }
+    .viz{ padding: 16px; }
+
+    figure{ margin:0; }
+    figcaption{
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 10px;
+    }
+
+    /* Embeds */
+    .embed{
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow:hidden;
+      background: rgba(255,255,255,.02);
+    }
+    .embed > iframe{ width: 100%; border: 0; }
+
+    /* Footer */
+    footer{
+      padding: 30px 0 60px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      margin-top: 18px;
+    }
+    .footerGrid{
+      display:flex;
+      justify-content: space-between;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .hr{ height: 1px; background: var(--line); margin: 16px 0; }
+
+    /* Small link style */
+    .mutedLink{ color: var(--muted); text-decoration: underline; text-underline-offset: 4px; }
+    .mutedLink:hover{ color: var(--text); }
+  </style>
+</head>
+
+<body>
+<header>
+  <div class="container nav">
+    <div class="brand">
+      <span class="dot"></span>
+      <span>WELL‑BEING STORY</span>
+    </div>
+    <nav class="navlinks">
+      <a href="#intro">Intro</a>
+      <a href="#map">Map</a>
+      <a href="#radial">Radial</a>
+      <a href="#indexes">Indexes</a>
+      <a href="#crisis">Crisis</a>
+      <a href="#note">Note</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- HERO -->
+  <section id="intro" class="hero">
+    <div class="heroGrid">
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">Data visualization course • 2025–2026</div>
+          <h1>Well‑Being evolution during crisis</h1>
+          <p class="lead">
+            Over the past two decades, Europe has experienced a series of economic and geopolitical shocks
+            that have profoundly shaped citizens’ well‑being. We focus on four crises and visualize how
+            European countries responded through an Aggregate Well‑Being Index.
+          </p>
+
+          <div class="chips">
+            <span class="chip"><b>Authors</b> Sasha Bravo · Nathan Ferrari · Andrea Frati · Manuel Grosso</span>
+            <a class="chip" href="https://dataviz-supsi.github.io/2025/" title="Go back home">← Data visualization course</a>
+          </div>
+
+          <div class="chips" style="margin-top:10px">
+            <a class="btn" href="assets/dataviz/protocols/01.html" title="Read the visualization protocol">Read the visualization protocol</a>
+            <a class="btn" href="assets/dataviz/DataSets/pivot_wellbeing_index.csv" title="Download dataset">↓ Download the dataset</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="cardPad">
+          <div class="sectionTitle">
+            <h2>Crises considered</h2>
+            <span class="sub">context cards</span>
+          </div>
+
+          <div class="sideStats">
+            <div class="stat">
+              <div class="label">2008</div>
+              <div class="value">Financial crisis</div>
+              <div class="hint">Unemployment & insecurity</div>
+            </div>
+            <div class="stat">
+              <div class="label">2010–2012</div>
+              <div class="value">Sovereign debt</div>
+              <div class="hint">Austerity & social spending</div>
+            </div>
+            <div class="stat">
+              <div class="label">2020</div>
+              <div class="value">COVID‑19</div>
+              <div class="hint">Health shock & restrictions</div>
+            </div>
+            <div class="stat">
+              <div class="label">2022→</div>
+              <div class="value">Ukraine conflict</div>
+              <div class="hint">Security & energy prices</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INTRO / CONTEXT -->
+  <section aria-label="Introduction">
+    <div class="sectionTitle">
+      <h2>Introduction to the European context</h2>
+      <span class="sub">why this story</span>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="cardPad">
+          <p class="lead" style="margin:0">
+            To visualise how European countries have responded to these events, we constructed an
+            <b>Aggregate Well‑Being Index</b> combining <b>economic</b>, <b>social</b> and <b>stability</b> dimensions.
+            Scores are weighted based on the association of the indicators with Maslow’s pyramid (basic needs weigh more).
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">How to read</div>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            In the maps: greener = higher well‑being index, redder = lower.
+            Use the time controls in the interactive visualizations to explore trends.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAP -->
+  <section id="map">
+    <div class="sectionTitle">
+      <h2>Europe map based on a well‑being index</h2>
+      <span class="sub">interactive (Flourish)</span>
+    </div>
+
+    <div class="card">
+      <div class="viz">
+        <div class="embed">
+          <!-- Keep original Flourish embed -->
+          <div class="flourish-embed flourish-map" data-src="visualisation/26665780">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/26665780/thumbnail" width="100%" alt="map visualization" />
+            </noscript>
+          </div>
+        </div>
+        <figcaption>Europe Map based on a well-being index</figcaption>
+      </div>
+    </div>
+
+    <div class="grid2" style="margin-top:18px;">
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Geographical distribution of well‑being</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            The interactive map shows how the level of well-being has evolved over time in different European countries.
+            The index is constructed by assigning a score to the various data provided by the OECD, then weighted by Maslow's needs.
+          </p>
+          <div class="hr"></div>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Qui inseriremo l'analisi dei pattern geografici principali: es. Nord Europa con valori più alti,
+            Est Europa più basso, recuperi progressivi nel Sud, ecc.
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">Downloads</div>
+          <div class="chips" style="margin-top:0">
+            <a class="btn" href="assets/dataviz/protocols/01.html">Read the visualization protocol</a>
+            <a class="btn" href="assets/dataviz/DataSets/pivot_wellbeing_index.csv">↓ Download the dataset</a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RADIAL -->
+  <section id="radial">
+    <div class="sectionTitle">
+      <h2>Radial chart</h2>
+      <span class="sub">embedded HTML</span>
+    </div>
+
+    <div class="card">
+      <div class="viz">
+        <div class="embed">
+          <iframe
+            src="assets/dataviz/vizualizations/radial_chart.html"
+            height="700"
+            loading="lazy"
+            title="Radial chart">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INDEXES -->
+  <section id="indexes">
+    <div class="sectionTitle">
+      <h2>Dynamic indexes plot</h2>
+      <span class="sub">interactive (Flourish)</span>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Dynamic indexes plot</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Analisi dettagliata dei singoli indici nei vari paesi, con focus sui pattern più interessanti.
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">Downloads (placeholder)</div>
+          <div class="chips" style="margin-top:0">
+            <a class="btn" href="path to do">Read the visualization protocol</a>
+            <a class="btn" href="path to do">↓ Download the dataset (1MB)</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:18px;">
+      <div class="viz">
+        <div class="embed">
+          <div class="flourish-embed flourish-chart" data-src="visualisation/26681467">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/26681467/thumbnail" width="100%" alt="chart visualization" />
+            </noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hr"></div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Swiss stability</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Analisi del pattern elvetico, con focus sulla stabilità che contraddistingue il paese.
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Economical power of Switzerland</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Power of swiss economy even during crisis periods.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:18px;">
+      <div class="viz">
+        <div class="embed">
+          <div class="flourish-embed flourish-chart" data-src="visualisation/26681467">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/26681467/thumbnail" width="100%" alt="chart visualization" />
+            </noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CRISIS MAPS -->
+  <section id="crisis">
+    <div class="sectionTitle">
+      <h2>Well‑being change in crisis periods</h2>
+      <span class="sub">interactive (Flourish maps)</span>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Crisis comparison</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            cambi aspettati nelle direzioni attese, differenze tra regioni per ucraina,
+            impatto non devastante del covid, ecc.
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="cardPad">
+          <h3 style="margin:0 0 10px; font-size:16px;">Ukraine impact (optional)</h3>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Da chiedere al prof se vogliamo tenere questa parte.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:18px;">
+      <div class="viz">
+        <div class="embed">
+          <div class="flourish-embed flourish-map" data-src="visualisation/26680884">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/26680884/thumbnail" width="100%" alt="map visualization" />
+            </noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:18px;">
+      <div class="viz">
+        <div class="embed">
+          <div class="flourish-embed flourish-map" data-src="visualisation/26680884">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+              <img src="https://public.flourish.studio/visualisation/26680884/thumbnail" width="100%" alt="map visualization" />
+            </noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid2" style="margin-top:18px;">
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">Downloads (placeholder)</div>
+          <div class="chips" style="margin-top:0">
+            <a class="btn" href="path to do">Read the visualization protocol</a>
+            <a class="btn" href="path to do">↓ Download the dataset (1MB)</a>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="cardPad">
+          <div class="kicker">Next</div>
+          <p style="margin:0; color: var(--muted); font-size:14px;">
+            Puoi aggiungere qui una sezione “Takeaways” o “Methodology” più lunga, se serve.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NOTE -->
+  <section id="note">
+    <div class="card">
+      <div class="cardPad">
+        <div class="sectionTitle">
+          <h2>Note & sources</h2>
+          <span class="sub">methodology / definitions</span>
+        </div>
+        <p style="margin:0; color: var(--muted);">
+          Inserisci qui metodologia, link a dataset, definizioni, e note su pulizia/aggregazione dati.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container footerGrid">
+    <div>
+      <strong>Well-Being evolution during crisis</strong><br/>
+      Authors: Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso
+    </div>
+    <div>
+      <strong>SUPSI</strong><br/>
+      Bachelor in Data Science and Artificial Intelligence<br/>
+      Data visualization course<br/>
+      Teacher: Giovanni Profeta<br/>
+      Academic year: 2025-2026
+    </div>
+    <div>
+      © <span id="year"></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Year + smooth scroll for anchor links
+  document.getElementById("year").textContent = new Date().getFullYear();
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener("click", (e) => {
+      const id = a.getAttribute("href");
+      if (!id || id === "#") return;
+      const el = document.querySelector(id);
+      if (!el) return;
+      e.preventDefault();
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
+      history.replaceState(null, "", id);
+    });
+  });
+</script>
+</body>
 </html>
