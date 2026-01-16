@@ -87,3 +87,77 @@ import pandas as pd
 df = pd.read_csv("file.tsv", sep="\t")
 print(df.columns)
 ````
+## Data visualizations
+
+### European well-being map
+**What it shows**  
+An interactive map displaying the Aggregate Well-Being Index for European countries from 2006 to 2022, navigable via a time slider. Countries are color-coded from blue (higher well-being) to lighter shades (lower well-being).
+
+**Why it matters**  
+The map reveals clear geographical patterns showing how Scandinavia and Central Europe maintain the highest well-being scores, while the Balkans and Eastern Europe show lower scores but the greatest improvements. It highlights how different regions respond to major shocks, with visible drops in well-being during 2009–2010, 2019–2020, and 2021–2022, distinguishing between temporary drops and structural vulnerabilities like Greece's prolonged crisis.
+
+---
+
+### Radial chart of well-being indicators per country
+**What it shows**  
+An interactive radial (spider) chart displaying 10 normalized well-being indicators (life expectancy, housing affordability, difficulty making ends meet, disposable income, reading skills, feeling safe, social support, gross earnings, employment rate, long-term unemployment) for each European country from 2006 to 2024. Indicators are color-coded by their position in Maslow's hierarchy of needs.
+
+**Why it matters**  
+This visualization allows granular analysis of which specific well-being dimensions are affected during each crisis. It reveals patterns such as France's housing cost drop after 2008, Greece's multi-dimensional collapse, COVID-19's impact on life expectancy in Austria and Italy, and the subtle effects of the Ukraine war on housing costs and energy prices across Europe.
+
+---
+
+### Switzerland dynamic indexes plot
+**What it shows**  
+A multi-line time series chart showing the evolution of all 11 well-being indicators for Switzerland from 2006 to 2024, with each metric displayed as a separate line.
+
+**Why it matters**  
+This visualization demonstrates Switzerland's remarkable stability compared to other European countries, with only mild deviations during crisis periods. It highlights unique patterns like the counter-intuitive behavior of long-term unemployment (dropping during crises due to the Kurzarbeit short-time work scheme), the COVID-19 impact on gross earnings and life expectancy, and the overall resilience of Swiss social and economic indicators.
+
+---
+
+### CPI Switzerland vs EU comparison
+**What it shows**  
+An animated bar chart race comparing the Consumer Price Index (CPI) between Switzerland and European countries over time, showing Switzerland consistently maintaining lower inflation rates than the EU average.
+
+**Why it matters**  
+This demonstrates one of the key economic foundations of Switzerland's stability—consistent price stability that preserves purchasing power and contributes to overall well-being, even during crisis periods when other European countries experience higher inflation.
+
+---
+
+### GDP per capita Switzerland vs EU comparison
+**What it shows**  
+An animated bar chart race displaying GDP per capita for Switzerland compared to European countries over time, showing Switzerland's significantly higher economic output per person.
+
+**Why it matters**  
+This visualization reveals the strong economic foundation underlying Switzerland's well-being stability. The higher GDP per capita provides resources for robust social services, infrastructure, and quality of life, enabling better crisis resilience.
+
+---
+
+### Unemployment rate Switzerland vs EU comparison
+**What it shows**  
+An animated line chart comparing unemployment rates between Switzerland and the European average over time, showing Switzerland's consistently lower unemployment rate.
+
+**Why it matters**  
+Low unemployment is crucial for well-being as it ensures stable income and employment opportunities. Switzerland's persistently low unemployment rate demonstrates labor market resilience that contributes to maintaining well-being during economic downturns.
+
+---
+
+### CHF/EUR exchange rate
+**What it shows**  
+A line chart showing the Swiss Franc to Euro exchange rate over time, demonstrating how the CHF strengthens relative to the EUR during crisis periods.
+
+**Why it matters**  
+This visualization illustrates Switzerland's role as a safe-haven economy. The strengthening of the Swiss franc during crises reflects international trust and capital flows into Switzerland during periods of instability, reinforcing its economic stability and explaining why Swiss well-being remains resilient when other countries struggle.
+
+---
+
+### Crisis comparison map
+**What it shows**  
+An interactive choropleth map with a dropdown menu allowing users to select between three crises (2008 Financial Crisis, COVID-19, Ukraine War). The map displays the change in well-being index during each crisis period, with red indicating regression and blue indicating improvement.
+
+**Why it matters**  
+This visualization enables direct comparison of how different types of crises affect European well-being differently. It shows that the 2008 financial crisis had the most significant and widespread negative impact (especially on Spain, Greece, Ireland, Italy, and Portugal), COVID-19 had lighter but more uniform effects, and the Ukraine war produced highly diverse outcomes tied to each nation's specific circumstances and resource dependencies.
+
+## Next steps
+To proceed with the project, it would be interesting to complete the analysis of the war in Ukraine. This would require finding data covering both Russia and Ukraine, from which it would be possible to create a well-being index comparable to the one developed using our data.
