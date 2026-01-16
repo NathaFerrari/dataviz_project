@@ -182,10 +182,22 @@
     }
 
     .sideStats{
-      display:grid;
-      grid-template-columns: 1fr 1fr;
+      display: grid;
+      grid-template-columns: 1fr;
       gap: 12px;
     }
+
+    .crisisWrap{
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .crisisWrap .sideStats{
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
     .stat{
       padding: 18px;
       border-radius: 16px;
@@ -319,6 +331,7 @@
     /* Small link style */
     .mutedLink{ color: var(--muted); text-decoration: underline; text-underline-offset: 4px; }
     .mutedLink:hover{ color: var(--text); }
+<<<<<<< Updated upstream
 
     /* Variante "pulita" solo per il radial */
     .embed.embed--radial{
@@ -338,6 +351,67 @@
     }
 
 
+=======
+  
+    /* Crisis cards: click-to-expand */
+    .stat.isClickable{
+      cursor: pointer;
+      transition: transform .2s ease, border-color .2s ease, background .2s ease;
+      outline: none;
+    }
+    .stat.isClickable:hover{
+      transform: translateY(-2px);
+      border-color: rgba(124,92,255,.35);
+      background: rgba(255,255,255,.05);
+    }
+    .stat.isClickable:active{ transform: translateY(0); }
+    .stat.isClickable:focus-visible{
+      border-color: rgba(124,92,255,.55);
+      box-shadow: 0 0 0 4px rgba(124,92,255,.12);
+    }
+
+    /* Modal overlay (reuses card styling) */
+    .crisisOverlay{
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      background: rgba(11,15,20,.72);
+      backdrop-filter: blur(10px);
+      z-index: 200;
+    }
+    .crisisOverlay.open{ display: flex; }
+    .crisisModal{
+      width: min(860px, 100%);
+    }
+    .crisisModalHeader{
+      display:flex;
+      align-items:flex-start;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 10px;
+    }
+    .crisisMeta{
+      color: var(--muted);
+      font-size: 12px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .crisisModalHeader h3{
+      margin: 6px 0 0;
+      font-size: clamp(20px, 2.2vw, 28px);
+      line-height: 1.15;
+    }
+    .crisisHint{ color: var(--muted); font-size: 14px; margin-top: 6px; }
+    .crisisBody p{
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+>>>>>>> Stashed changes
   </style>
 </head>
 
@@ -389,35 +463,29 @@
       </div>
 
       <div class="card">
-        <div class="cardPad">
+        <div class="cardPad crisisWrap">
           <div class="sectionTitle">
             <h2>Crises considered</h2>
-            <span class="sub">context cards</span>
           </div>
-
+          <div class="hr"></div>
           <div class="sideStats">
-            <div class="stat">
-              <div class="label">2008</div>
+            <div class="stat isClickable" data-crisis="fin2008" role="button" tabindex="0">
+              <div class="label">2008–2012</div>
               <div class="value">Financial crisis</div>
               <div class="hint">Unemployment & insecurity</div>
             </div>
-            <div class="stat">
-              <div class="label">2010–2012</div>
-              <div class="value">Sovereign debt</div>
-              <div class="hint">Austerity & social spending</div>
-            </div>
-            <div class="stat">
+            <div class="stat isClickable" data-crisis="covid2020" role="button" tabindex="0">
               <div class="label">2020</div>
               <div class="value">COVID-19</div>
               <div class="hint">Health shock & restrictions</div>
             </div>
-            <div class="stat">
+            <div class="stat isClickable" data-crisis="ukraine2022" role="button" tabindex="0">
               <div class="label">2022→</div>
               <div class="value">Ukraine conflict</div>
               <div class="hint">Security & energy prices</div>
             </div>
           </div>
-
+          <div class="hr"></div>
         </div>
       </div>
     </div>
@@ -498,7 +566,7 @@
             It is also possible to observe patterns followed by single countries, such as Switzerland, which remains stable throughout the entire timeline, and Greece, which plunged sharply in 2010–2012 and never recovered, keeping the index stable at 0.5. This is linked to the prolonged internal socioeconomic crisis faced by Greece, whose effects are still visible.
           </p>
           <div class="hr"></div>
-          <div class="kicker">Downloads</div>
+          <div class="kicker">Downloads - Visualization protocol</div>
           <div class="chips" style="margin-top:0">
             <a class="btn" href="assets/dataviz/protocols/01.html">Read the visualization protocol</a>
             <a class="btn" href="assets/dataviz/DataSets/pivot_wellbeing_index.csv">↓ Download the dataset</a>
@@ -548,7 +616,7 @@
             In 2022, with the start of the war in Ukraine, there were two principal economic consequences in Europe: the price of gas that grew and the refugees that came. With our data, it's difficult to get those values. In some countries, there is a slight fluctuation in housing cost and difficulty making ends meet due to high gas prices, but nothing really observable in our dataset.
           </p>
           <div class="hr"></div>
-          <div class="kicker">Downloads</div>
+          <div class="kicker">Downloads - Visualization protocol</div>
           <div class="chips" style="margin-top:0">
             <a class="btn" href="assets/dataviz/protocols/02.html">Read the visualization protocol</a>
             <a class="btn" href="assets/dataviz/DataSets/wellbeing_long_with_domain.csv">↓ Download the dataset</a>
@@ -604,7 +672,7 @@
             All drops and spikes cited are in majority really small, giving strong representation of the stability of our country.
           </p>
           <div class="hr"></div>
-          <div class="kicker">Downloads (placeholder)</div>
+          <div class="kicker">Downloads - Visualization protocol</div>
           <div class="chips" style="margin-top:0">
             <a class="btn" href="assets/dataviz/protocols/03.html">Read the visualization protocol</a>
             <a class="btn" href="assets/dataviz/DataSets/Switzerland_pivoted_filled_preprocessed_dataset.csv">↓ Download the dataset</a>
@@ -687,6 +755,12 @@
             <br>
             Overall, these economic indicators highlight Switzerland's robust economic position, which plays a significant role in maintaining high levels of well-being even in the face of external shocks and crises.
           </p>
+          <div class="hr"></div>
+          <div class="kicker">Downloads - Visualization protocol</div>
+          <div class="chips" style="margin-top:0">
+            <a class="btn" href="assets/dataviz/protocols/04.html">Read the visualization protocol modify</a>
+            <a class="btn" href="assets/dataviz/DataSets/zoom-in-db.zip">↓ Download the dataset (1MB)</a>
+          </div>
         </div>
       </div>
     </div>
@@ -741,6 +815,13 @@
           <p style="margin:0; color: var(--muted); font-size:14px;">
             There are notable differences between these crises. The global financial crisis had the most significant impact, with clear patterns visible across economies. The COVID-19 pandemic also produced consistent effects in all countries, while geopolitical crises yield highly diverse outcomes that are closely tied to each nation's specific circumstances.
           </p>
+          <div class="hr"></div>
+          <div class="kicker">Downloads - Visualization protocol</div>
+          <div class="chips" style="margin-top:0">
+            <a class="btn" href="assets/dataviz/protocols/05.html">Read the visualization protocol</a>
+            <a class="btn" href="assets/dataviz/DataSets/wellbeing_index_changes.csv">↓ Download the dataset (1MB)</a>
+          </div>
+        </div>
         </div>
       </div>
   
@@ -748,6 +829,7 @@
 
     
 
+<<<<<<< Updated upstream
     <div class="grid2" style="margin-top:18px;">
       <div class="card">
         <div class="cardPad">
@@ -759,11 +841,15 @@
           </div>
         </div>
       </div>
+=======
+    <div class="grid" style="margin-top:18px;">
+>>>>>>> Stashed changes
       <div class="card">
         <div class="cardPad">
           <div class="kicker">Next</div>
           <p style="margin:0; color: var(--muted); font-size:14px;">
-            Puoi aggiungere qui una sezione “Takeaways” o “Methodology” più lunga, se serve.
+            To proceed with the project, it would be interesting to complete the analysis of the war in Ukraine. 
+            This would require finding data covering both Russia and Ukraine, from which it would be possible to create a well-being index comparable to the one developed using our data.
           </p>
         </div>
       </div>
@@ -789,6 +875,28 @@
       </div>
     </div>
   </section>
+
+
+  <!-- CRISIS DETAILS OVERLAY -->
+  <div id="crisisOverlay" class="crisisOverlay" aria-hidden="true">
+    <div class="crisisModal card" role="dialog" aria-modal="true" aria-labelledby="crisisTitle">
+      <div class="cardPad">
+        <div class="crisisModalHeader">
+          <div>
+            <div id="crisisPeriod" class="crisisMeta">—</div>
+            <h3 id="crisisTitle">—</h3>
+            <div id="crisisHint" class="crisisHint">—</div>
+          </div>
+          <button id="crisisClose" class="btn" type="button" aria-label="Close crisis details">← Back</button>
+        </div>
+        <div class="hr"></div>
+        <div id="crisisText" class="crisisBody">
+          <p style="margin-top:0">—</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
 </main>
 
@@ -825,6 +933,125 @@
       history.replaceState(null, "", id);
     });
   });
+
+  // Crisis cards: open / close overlay with more detailed text
+  (function(){
+    const overlay = document.getElementById("crisisOverlay");
+    const titleEl = document.getElementById("crisisTitle");
+    const periodEl = document.getElementById("crisisPeriod");
+    const hintEl = document.getElementById("crisisHint");
+    const textEl = document.getElementById("crisisText");
+    const closeBtn = document.getElementById("crisisClose");
+    if(!overlay || !titleEl || !closeBtn) return;
+
+    const CRISES = {
+      fin2008: {
+        period: "2008",
+        title: "Financial crisis",
+        hint: "Unemployment & insecurity",
+        // You can put richer HTML here (lists, links, etc.)
+        html: `
+          <p style="margin-top:0">
+            Add your detailed explanation here: origin (subprime / banking), transmission to Europe, main channels (credit tightening,
+            unemployment, public deficits) and why it shows up clearly in the well-being index.
+          </p>
+          <p>
+            Tip: keep 2–4 short paragraphs, and highlight 1–2 key signals you want the reader to notice in your visualizations.
+          </p>
+        `
+      },
+      debt2010: {
+        period: "2010–2012",
+        title: "Sovereign debt",
+        hint: "Austerity & social spending",
+        html: `
+          <p style="margin-top:0">
+            Add your detailed explanation here: eurozone debt dynamics, austerity measures, and how this affects social indicators
+            (e.g., housing affordability, difficulty making ends meet, long-term unemployment).
+          </p>
+          <p>
+            You can also mention countries with the strongest impact (e.g., Greece, Spain, Portugal, Ireland) if relevant for your story.
+          </p>
+        `
+      },
+      covid2020: {
+        period: "2020",
+        title: "COVID‑19",
+        hint: "Health shock & restrictions",
+        html: `
+          <p style="margin-top:0">
+            Add your detailed explanation here: health shock, mobility restrictions, economic support packages, and the expected impact
+            on life expectancy, labour market and subjective indicators.
+          </p>
+          <p>
+            If you want, include a short note about measurement lag or indicator availability around 2020–2021.
+          </p>
+        `
+      },
+      ukraine2022: {
+        period: "2022→",
+        title: "Ukraine conflict",
+        hint: "Security & energy prices",
+        html: `
+          <p style="margin-top:0">
+            Add your detailed explanation here: energy price shock, inflation pressures, supply chains, defense spending,
+            and heterogeneous effects across countries.
+          </p>
+          <p>
+            Since Ukraine/Russia are excluded, explain what the map is capturing for the rest of Europe.
+          </p>
+        `
+      }
+    };
+
+    let lastFocus = null;
+
+    function openCrisis(key){
+      const c = CRISES[key];
+      if(!c) return;
+
+      lastFocus = document.activeElement;
+
+      periodEl.textContent = c.period;
+      titleEl.textContent = c.title;
+      hintEl.textContent = c.hint;
+      textEl.innerHTML = c.html;
+
+      overlay.classList.add("open");
+      overlay.setAttribute("aria-hidden", "false");
+      closeBtn.focus({ preventScroll: true });
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeCrisis(){
+      overlay.classList.remove("open");
+      overlay.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+      if(lastFocus && typeof lastFocus.focus === "function") lastFocus.focus({ preventScroll: true });
+    }
+
+    // click / keyboard on cards
+    document.querySelectorAll(".stat.isClickable[data-crisis]").forEach(card => {
+      card.addEventListener("click", () => openCrisis(card.dataset.crisis));
+      card.addEventListener("keydown", (e) => {
+        if(e.key === "Enter" || e.key === " "){
+          e.preventDefault();
+          openCrisis(card.dataset.crisis);
+        }
+      });
+    });
+
+    // close interactions
+    closeBtn.addEventListener("click", closeCrisis);
+    overlay.addEventListener("click", (e) => {
+      // click outside the modal closes
+      if(e.target === overlay) closeCrisis();
+    });
+    window.addEventListener("keydown", (e) => {
+      if(e.key === "Escape" && overlay.classList.contains("open")) closeCrisis();
+    });
+  })();
+
 </script>
 </body>
 </html>
