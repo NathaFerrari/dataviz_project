@@ -319,6 +319,25 @@
     /* Small link style */
     .mutedLink{ color: var(--muted); text-decoration: underline; text-underline-offset: 4px; }
     .mutedLink:hover{ color: var(--text); }
+
+    /* Variante "pulita" solo per il radial */
+    .embed.embed--radial{
+      display: flex;
+      justify-content: center;
+      overflow: hidden;       /* importantissimo: niente sbordi brutti */
+    }
+
+    /* Iframe radial */
+    #radialFrame{
+      width: 100%;
+      max-width: 1200px;   /* <-- toglie il limite che lo fa sembrare non centrato */
+      height: 700px;     /* se serve: 720/750 */
+      border: 0;
+      display: block;
+      margin-top: 25px;
+    }
+
+
   </style>
 </head>
 
@@ -498,13 +517,14 @@
 
   <div class="card">
     <div class="viz">
-      <div class="embed">
+      <div class="embed embed--radial">
         <iframe
           id="radialFrame"
           src="assets/dataviz/vizualizations/radial_chart_dark_dropdown_left.html"
-          height="700"
           loading="lazy"
-          title="Radial chart">
+          title="Radial chart"
+          scrolling="no"
+          style="overflow:hidden">
         </iframe>
       </div>
     </div>
