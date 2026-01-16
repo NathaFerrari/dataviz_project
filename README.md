@@ -1,10 +1,14 @@
 SUPSI 2025-26
+
 Data Visualization course, C-D3202E
+
 Teacher Giovanni Profeta
 
-Well being evolution during crisis
+
+# Well being evolution during crisis
 Authors: Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso
-Project website: Well being evolution during crisis
+Project website: https://nathaferrari.github.io/dataviz_project/
+
 ​
 
 Abstract
