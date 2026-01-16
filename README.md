@@ -14,7 +14,7 @@ https://nathaferrari.github.io/dataviz_project/
 
 ## Abstract
 
-This project provides an in-depth analysis of the evolution of well-being in European countries between 2000 and 2024, with the aim of understanding how major economic, health, and geopolitical crises have affected people’s quality of life.
+This project provides an in-depth analysis of the evolution of well-being in European countries between 2006 and 2024, with the aim of understanding how major economic, health, and geopolitical crises have affected people’s quality of life.
 
 Over the last two decades, Europe has experienced several historical shocks, including the 2008 global financial crisis, the sovereign debt crisis, the COVID-19 pandemic, the post-pandemic inflation surge, and the war in Ukraine. These events have put economic, social, and institutional systems under significant pressure.
 
