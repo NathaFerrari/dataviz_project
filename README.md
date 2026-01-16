@@ -1,165 +1,233 @@
-SUPSI 2025-26  
-Data Visualization course, C-D3202E 
+SUPSI 2025-26
+Data Visualization course, C-D3202E
 Teacher Giovanni Profeta
 
+Well being evolution during crisis
+Authors: Sasha Bravo, Nathan Ferrari, Andrea Frati, Manuel Grosso
+Project website: Well being evolution during crisis
+​
 
-# Project title
-Authors: [Sasha Bravo](https://github.com/sasha-bravo), [Nathan Ferrari](https://github.com/NathaFerrari), [Andrea Frati](https://github.com/AndreaFrati-18),  [Manuel Grosso](https://github.com/J-Manu12)
+Abstract
+This project provides an in-depth analysis of the evolution of well-being in European countries between 2000 and 2024, with the goal of understanding how major economic, health, and geopolitical crises have affected people’s quality of life. Over the last two decades, Europe has experienced several historical shocks, such as the 2008 global financial crisis, the sovereign debt crisis, the COVID-19 pandemic, the strong inflation phase after the pandemic, and the war in Ukraine, all of which have put economic, social, and institutional systems under pressure.
+​
 
-[Well being evolution during crisis](https://nathaferrari.github.io/dataviz_project/)
+To analyse these phenomena in a structured way, an Aggregate Well-Being Index was constructed by combining economic, social, and stability-related variables, in order to offer a multidimensional view of well-being. Using interactive visualizations, in particular maps and time series charts, the project highlights territorial differences between European countries, convergence and divergence dynamics over time, and the impact of historical shocks on different areas of the continent.
+​
 
+Special attention is devoted to Switzerland, which emerges as a particularly interesting case study due to its high and stable levels of well-being throughout the entire period. The comparison between Switzerland and the rest of Europe makes it possible to identify the resilience factors that characterise its economic and social system, offering a clear, accessible, and scientifically grounded reading of how well-being in Europe has changed over the last twenty-five years.
+​
 
-## Abstract
-Questo progetto analizza in modo approfondito l’evoluzione del benessere nei Paesi europei nel periodo compreso tra il 2000 e il 2024, con l’obiettivo di comprendere come le principali crisi economiche, sanitarie e geopolitiche abbiano influenzato la qualità della vita dei cittadini. Negli ultimi vent’anni, infatti, l’Europa è stata attraversata da eventi di portata storica come la crisi finanziaria globale del 2008, la crisi del debito sovrano, la pandemia di COVID-19, la fase di forte inflazione successiva alla pandemia e il conflitto in Ucraina, che hanno messo sotto pressione i sistemi economici, sociali e istituzionali.  
+Introduction
+In recent decades, the concept of well-being has taken on an increasingly central role in economic, political, and social debates, moving beyond GDP growth as the sole indicator of a country’s health. Factors such as quality of life, economic security, social cohesion, access to services, and institutional stability have become essential to understand the progress of contemporary societies.
+​
 
-Per analizzare questi fenomeni in modo strutturato è stato costruito un Indice di Benessere Aggregato, ottenuto combinando variabili economiche, sociali e di stabilità, al fine di restituire una visione multidimensionale del benessere. Attraverso l’utilizzo di visualizzazioni interattive, in particolare mappe e grafici temporali, il progetto mette in luce le differenze territoriali tra i Paesi europei, le dinamiche di convergenza e divergenza nel tempo e l’impatto degli shock storici sulle diverse aree del continente.  
+Europe is a particularly relevant context for this type of analysis, as it brings together countries with very different levels of development, welfare models, and economic structures. Between 2000 and 2024, the continent faced a sequence of major crises: the 2008 global financial crisis, the sovereign debt crisis in Southern Europe, the COVID-19 pandemic, the post-pandemic inflation surge, and the war in Ukraine, each affecting territories in different ways.
+​
 
-Un’attenzione specifica è rivolta alla Svizzera, che emerge come un caso di studio particolarmente interessante per i suoi elevati e stabili livelli di benessere lungo tutto l’arco temporale analizzato. Il confronto tra la Svizzera e il resto d’Europa consente di evidenziare i fattori di resilienza che caratterizzano il suo sistema economico e sociale. Nel complesso, il progetto si propone di offrire una lettura chiara, accessibile e scientificamente fondata delle trasformazioni del benessere in Europa negli ultimi venticinque anni.
+Within this complex scenario, there is a need to examine how the well-being of European citizens has responded to these shocks and whether there are significant differences between the various areas of the continent. The goal of this project is to reconstruct the evolution of well-being in Europe using a comparative and data-driven approach, through the construction of an Aggregate Well-Being Index that combines economic, social, and stability dimensions into a single synthetic indicator.
+​
 
+The interactive visualizations developed in the project – in particular a dynamic map with a time slider and temporal charts – make it possible to intuitively explore both the geographical distribution of well-being and its evolution over time, highlighting phases of growth, crisis, and recovery. Users can identify territorial patterns, structural differences, and breaks associated with the main historical events.
+​
 
+A central element of the project is the focus on Switzerland, which displays high and relatively stable levels of well-being throughout the period, emerging as a kind of “stability heaven” compared to many EU countries. This comparison helps reveal which economic, institutional, and historical features contribute to long-term resilience, and how they are reflected in the trajectory of well-being captured by the data.
+​
 
-## Introduction
-Negli ultimi decenni, il concetto di benessere ha assunto un ruolo sempre più centrale nel dibattito economico, politico e sociale. La crescita del prodotto interno lordo non è più considerata un indicatore sufficiente per descrivere lo stato di salute di un Paese, poiché non è in grado di cogliere aspetti fondamentali come la qualità della vita, la sicurezza economica, la coesione sociale, l’accesso ai servizi e la stabilità istituzionale. In questo contesto, l’Europa rappresenta un laboratorio particolarmente interessante per lo studio del benessere, poiché riunisce Paesi con livelli di sviluppo, modelli di welfare e assetti economici molto diversi tra loro.  
+Data sources
+List of datasets used
+OECD – How’s Life? / Current Well-Being (DSD_HSL_CWB), accessible through the OECD Data Explorer platform.
+​
+Main datasource:
+https://data-explorer.oecd.org/vis?lc=en&df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bid%5D=DSD_HSL%40DF_HSL_CWB&df%5Bag%5D=OECD.WISE.WDP&dq=AUS%2BAUT%2BBEL%2BCAN%2BCHL%2BCOL%2BCRI%2BCZE%2BDNK%2BEST%2BFIN%2BFRA%2BDEU%2BGRC%2BHUN%2BISL%2BIRL%2BISR%2BITA%2BJPN%2BKOR%2BLVA%2BLTU%2BLUX%2BMEX%2BNLD%2BNZL%2BNOR%2BPOL%2BPRT%2BSVK%2BSVN%2BESP%2BSWE%2BTUR%2BGBR%2BUSA%2BARG%2BBRA%2BBGR%2BHRV%2BIDN%2BPER%2BROU%2BZAF%2BTHA%2BCHE...
+​
 
-Il periodo compreso tra il 2000 e il 2024 è stato caratterizzato da una successione di crisi che hanno inciso profondamente sugli equilibri europei. La crisi finanziaria globale del 2008 ha provocato una recessione diffusa e una forte perdita di occupazione in molti Paesi. Negli anni successivi, la crisi del debito sovrano ha colpito in modo particolare l’Europa meridionale, accentuando le disuguaglianze economiche e sociali. A partire dal 2020, la pandemia di COVID-19 ha rappresentato uno shock senza precedenti, con effetti rilevanti sulla salute pubblica, sull’economia e sulle relazioni sociali. Il periodo successivo è stato contrassegnato da un forte aumento dell’inflazione e, dal 2022, dallo scoppio del conflitto in Ucraina, che ha avuto importanti ripercussioni sui prezzi dell’energia, sulla sicurezza e sulla stabilità geopolitica del continente.  
+Data provenance
+The data are produced by the OECD (Organisation for Economic Co-operation and Development) within the WISE programme (Well-Being, Inclusion, Sustainability and Equal Opportunity), which collects official statistics provided by member and partner countries.
+​
+This ensures high reliability, international comparability, and regular updates, making the database suitable for longitudinal and cross-country comparisons of well-being.
+​
 
-All’interno di questo scenario complesso, emerge la necessità di analizzare come il benessere dei cittadini europei abbia reagito a questi shock e se esistano differenze significative tra le diverse aree del continente. L’obiettivo di questo progetto è proprio quello di ricostruire l’evoluzione del benessere in Europa attraverso un approccio comparativo e data-driven. A questo scopo è stato costruito un Indice di Benessere Aggregato che combina più dimensioni — economiche, sociali e di stabilità — in un unico indicatore sintetico, capace di restituire una visione complessiva ma allo stesso tempo articolata del fenomeno.  
+Motivation for the choice
+The OECD dataset was chosen because:
 
-Le visualizzazioni interattive sviluppate nel progetto consentono di esplorare in modo intuitivo sia la distribuzione geografica del benessere sia la sua evoluzione nel tempo. In particolare, l’utilizzo di una mappa dinamica con slider temporale permette di osservare come i diversi Paesi europei abbiano attraversato le fasi di crescita, crisi e ripresa, mettendo in evidenza pattern territoriali ricorrenti, differenze strutturali e momenti di rottura legati agli shock storici.  
+it is specifically designed to measure well-being beyond GDP, including economic, social, and quality-of-life dimensions
 
-Un elemento centrale dell’analisi è rappresentato dal focus sulla Svizzera. Pur non facendo parte dell’Unione Europea, la Svizzera è fortemente integrata nel contesto economico e sociale europeo e mostra livelli di benessere particolarmente elevati e stabili lungo tutto il periodo analizzato. Il suo comportamento rappresenta un interessante termine di confronto per comprendere quali caratteristiche economiche, istituzionali e storiche possano favorire una maggiore resilienza agli shock.  
+it offers an extended time coverage, allowing analysis of pre- and post-crisis periods (2008, 2010–2012, 2020, 2022)
 
-Nel complesso, questo progetto si propone non solo di descrivere l’andamento del benessere in Europa, ma anche di offrire strumenti interpretativi utili a comprendere le dinamiche che lo governano. L’uso della data visualization permette di trasformare dati complessi in informazioni accessibili, favorendo una lettura critica dei fenomeni e stimolando una riflessione più consapevole sulle trasformazioni sociali ed economiche che hanno interessato l’Europa negli ultimi venticinque anni.
+it enables standardised international comparisons across European countries through harmonised indicators
 
+it includes inequality, deprivation, and distributional measures of well-being, which are crucial to assess vulnerability to crises.
+​
 
-## Data sources  
+Main variables
+The dataset contains more than 80 indicators grouped into 11 well-being dimensions, including income and wealth, housing conditions, job security, health, education and skills, environmental quality, personal safety, life satisfaction, work-life balance, social connections, and civic engagement.
+​
+In this project, a subset of indicators was selected to construct the Aggregate Well-Being Index, combining variables such as disposable income, difficulty making ends meet, employment rate, long-term unemployment, life expectancy, social support, perceived safety, reading proficiency, and housing cost.
+​
 
-### Elenco dei dataset utilizzati  
-- OECD – *How’s Life? / Current Well-Being (DSD_HSL_CWB)*  
-  Dataset ufficiale dell’Organizzazione per la Cooperazione e lo Sviluppo Economico (OECD), accessibile tramite la piattaforma **OECD Data Explorer**.  
-  
-[Main datasource](https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HSL%40DF_HSL_CWB&df[ag]=OECD.WISE.WDP&dq=CHE.1_1%2B1_2%2B1_4%2B1_5%2B2_1%2B2_2%2B2_3%2B2_4%2B2_5%2B2_7%2B2_8%2B2_8_DEP%2B2_8_VER%2B2_9%2B3_1%2B3_2%2B3_3%2B3_4%2B3_5%2B4_4%2B4_4_DEP%2B4_4_VER%2B5_1%2B5_2%2B5_2_DEP%2B5_3%2B6_1%2B6_1_DEP%2B6_1_VER%2B6_2%2B6_2_DEP%2B6_2_VER%2B6_3%2B6_3_DEP%2B6_3_VER%2B6_4_DEP%2B7_1%2B7_1_DEP%2B7_3%2B7_3_DEP%2B7_3_VER%2B7_4%2B8_1%2B8_1_DEP%2B8_2%2B9_1%2B9_2%2B9_3%2B10_1%2B10_2%2B10_2_DEP%2B10_3%2B11_1%2B11_1_DEP%2B11_1_VER%2B11_2%2B11_3.....HSL_1%2BHSL_2%2BHSL_3%2BHSL_4%2BHSL_5%2BHSL_6%2BHSL_7%2BHSL_8%2BHSL_9%2BHSL_10%2BHSL_11&pd=2004%2C2025&to[TIME_PERIOD]=false&vw=ov&lb=nm)
+Data pre-processing
+To build a synthetic index that is comparable across countries and years, the OECD data underwent several pre-processing steps.
+​
 
-### Provenienza dei dati  
-I dati sono prodotti dall’**OECD (Organisation for Economic Co-operation and Development)**, attraverso il programma dedicato al benessere, inclusione e sostenibilità (**WISE – Well-Being, Inclusion, Sustainability and Equal Opportunity**).  
-Il database raccoglie informazioni statistiche ufficiali fornite dai Paesi membri e partner dell’OECD, garantendo alta affidabilità, comparabilità internazionale e aggiornamenti periodici.
-### Motivazione della scelta  
-Il dataset OECD è stato scelto perché:  
-- È progettato specificamente per misurare il **benessere oltre il PIL**, includendo aspetti economici, sociali e di qualità della vita.  
-- Offre una **copertura temporale estesa**, ideale per analizzare l’evoluzione del benessere prima e dopo le principali crisi (2008, 2010–2012, 2020, 2022).  
-- Permette confronti **internazionali standardizzati** tra Paesi europei.  
-- Include indicatori su **disuguaglianze, deprivazione e distribuzione del benessere**, fondamentali per uno studio completo dell’impatto delle crisi.  
-- È ampiamente utilizzato in ambito accademico e istituzionale, aumentando la solidità scientifica del progetto.
+The main operations include:
 
-### Variabili principali  
-Il dataset comprende oltre **80 indicatori** suddivisi in **11 dimensioni del benessere**, tra cui:
+Cleaning and filtering: selection of European countries (including Switzerland) and of observations between 2000 and 2024; removal of duplicated or clearly irrelevant variables with respect to the well-being dimensions defined in the project.
+​
 
-- **Condizioni economiche e materiali**
-  - Reddito disponibile delle famiglie  
-  - Ricchezza  
-  - Qualità dell’alloggio  
-  - Sicurezza del lavoro  
+Handling missing values: for indicators with a small share of missing data, time-series techniques such as interpolation or forward/backward filling were applied; indicators with insufficient coverage were excluded from the index computation.
+​
 
-- **Qualità della vita**
-  - Stato di salute  
-  - Istruzione e competenze  
-  - Qualità ambientale  
-  - Sicurezza personale  
-  - Soddisfazione per la vita  
-  - Equilibrio vita-lavoro  
-  - Relazioni sociali  
-  - Partecipazione civica e fiducia nelle istituzioni  
+Indicator normalisation: all selected variables were rescaled to a 0–1 range, where 1 represents the best and 0 the worst condition; for “negative” indicators (e.g. long-term unemployment, difficulty making ends meet, housing cost overburden) the scale was reversed.
+​
 
-- **Disuguaglianze e deprivazione**
-  - Indicatori per genere, età e livello di istruzione  
-  - Misure di disuguaglianza interna  
-  - Percentuale di popolazione in condizioni di svantaggio  
+Creation of new fields:
 
-Queste variabili sono state combinate per costruire un **Indice di Benessere Aggregato**, utilizzato nelle visualizzazioni per analizzare l’evoluzione del benessere in Europa tra il 2000 e il 2024.
+a normalised score for each indicator
 
-## Data pre-processing
-Spiegare:  
-- quali pulizie sono state fatte  
-- quali colonne sono state eliminate  
-- se sono stati gestiti valori nulli  
-- se sono stati creati nuovi campi  
+dimension-level scores (e.g. Income & wealth, Work & job quality, Housing, Health, Social connections, Safety) computed as weighted averages of their indicators
 
+an overall Aggregate Well-Being Index for each country-year, obtained by combining the dimension scores.
+​
 
-```Python
+Weighting inspired by Maslow’s hierarchy of needs: dimensions related to basic needs (e.g. minimum income, health, safety) receive higher weights than “higher-level” dimensions (e.g. life satisfaction), following psychological evidence summarised by McLeod (2025).
+​
+
+A minimal example of the initial data loading step is:
+
+python
 import pandas as pd
 
-df = pd.read_csv('file.tsv', sep='\t')
+df = pd.read_csv("file.tsv", sep="\t")
 print(df.columns)
-```
+This inspection helps identify available columns and select only those needed for index construction and subsequent visualizations.
+​
 
-## Data visualizations
+Data visualizations
+1. European well-being map
+What it shows
 
+An interactive map of European countries displaying the Aggregate Well-Being Index from 2000 to 2024, navigable through a time slider.
+​
 
-### 1. Mappa europea del benessere  
-**Cosa mostra:**  
-- Una mappa interattiva dei Paesi europei con i valori dell’Indice di Benessere Aggregato dal 2000 al 2024.  
-- I colori più scuri indicano un livello di benessere più alto, i colori più chiari valori inferiori.  
-- Lo slider temporale permette di osservare come il benessere evolva negli anni.  
+A colour scale where darker tones indicate higher well-being levels and lighter tones lower levels.
+​
 
-**Perché è importante:**  
-- Permette di individuare pattern geografici: Nord Europa con valori più alti, Est e Sud Europa con valori più bassi o in recupero.  
-- Evidenzia la resilienza dei Paesi durante gli shock economici e sociali (2008, pandemia COVID-19, inflazione 2021–2023, conflitto in Ucraina).  
-- Facilita il confronto visivo tra Paesi, mostrando i divari e le aree di miglioramento o peggioramento.
+Why it matters
 
+It reveals geographical patterns: Northern and some Central European countries tend to display higher and more persistent well-being, while Southern and Eastern Europe start from lower levels or show catching-up trajectories.
+​
 
-[<img src="assets/images/03.png" width="800" alt="Placeholder image">]()
+It highlights countries’ resilience during major shocks (2008 crisis, COVID-19, 2021–2023 inflation, war in Ukraine), making visible where drops are temporary and where vulnerabilities are more structural.
+​
 
-### 2. Evoluzione temporale del benessere in Europa 
-**Cosa mostra:**  
-- Grafico a linee che rappresenta l’andamento dell’Indice di Benessere Aggregato medio in Europa.  
-- Mostra come i valori medi cambiano nel tempo e reagiscono agli eventi storici principali.  
+Internal repository link:
+[Map of Europe](https://github.com/NathaFerrari/dataviz_project#1-mappa-europea-del-benessere)
 
-**Perché è importante:**  
-- Evidenzia le tendenze di lungo periodo del benessere europeo.  
-- Mostra i picchi e le cadute in corrispondenza di crisi storiche, distinguendo effetti temporanei da trend strutturali.  
-- Supporta l’analisi della resilienza complessiva dell’Europa.
+2. Temporal evolution of European well-being
+What it shows
 
-[<img src="assets/images/04.png" width="800" alt="Placeholder image">]()
+A line chart representing the evolution of the average Aggregate Well-Being Index in Europe over time, computed by aggregating country-level scores.
+​
 
-### 3. Confronto Svizzera vs resto d’Europa
-**Cosa mostra:**  
-- Grafico a barre o linee che confronta l’Indice di Benessere Aggregato della Svizzera con quello di altri Paesi europei.  
-- La Svizzera mostra valori elevati e stabili lungo tutto l’arco temporale.  
+The series shows how average well-being responds to key historical events, displaying both short-term drops and longer-term trends.
+​
 
-**Perché è importante:**  
-- Evidenzia la Svizzera come outlier positivo in Europa.  
-- Permette di osservare quali Paesi sono più sensibili agli shock economici e quali mantengono stabilità.  
-- Aiuta a capire le ragioni della resilienza svizzera: servizi di qualità, economia stabile, rete sociale forte.  
-- Funziona come punto di riferimento per confrontare sistemi europei diversi.
+Why it matters
 
-[<img src="assets/images/04.png" width="800" alt="Placeholder image">]()
+It makes long-run trends visible: despite shocks, many regions exhibit a gradual improvement in well-being, especially where welfare institutions are robust.
+​
 
+It helps distinguish between temporary crisis effects and structural changes by aligning turning points in the series with historical events such as the financial crisis, the pandemic, and the war in Ukraine.
+​
 
-## Key findings
-Dall’analisi dei dati e dalle visualizzazioni interattive emergono diversi risultati chiave relativi all’evoluzione del benessere in Europa tra il 2000 e il 2024:
+Internal repository link:
+[Temporal evolution](https://github.com/NathaFerrari/dataviz_project#2-evoluzione-temporale-del-benessere-in-europa)
 
-1. **Differenze geografiche marcate**  
-   - I Paesi del Nord Europa mostrano costantemente livelli di benessere più elevati rispetto a quelli del Sud e dell’Est Europa.  
-   - Paesi come Finlandia, Norvegia e Svizzera si collocano tra i più alti in tutte le dimensioni analizzate, mentre alcuni Paesi dell’Europa meridionale e orientale mostrano valori più bassi o maggiormente sensibili agli shock.
+3. Switzerland vs rest of Europe
+What it shows
 
-2. **Impatto degli shock storici**  
-   - Eventi come la crisi finanziaria del 2008, la crisi del debito sovrano (2010-2012), la pandemia di COVID-19 e l’aumento dell’inflazione tra il 2021 e il 2023 si riflettono chiaramente nelle serie temporali dell’indice di benessere.  
-   - Durante questi periodi si osservano cali temporanei nei valori medi, con differenze tra Paesi più o meno resilienti.
+A bar or line chart comparing Switzerland’s Aggregate Well-Being Index to the European average and/or selected countries over the entire time horizon.
+​
 
-3. **Tendenze di lungo periodo**  
-   - Nonostante gli shock, il benessere europeo mostra un miglioramento graduale nel lungo periodo in molte regioni, soprattutto nei Paesi con economie stabili e sistemi di welfare solidi.  
-   - Alcuni Paesi emergono per una progressiva riduzione dei divari interni, mentre altri mostrano una stagnazione o una maggiore vulnerabilità.
+Switzerland’s trajectory appears at high levels and with limited volatility compared to most other series.
+​
 
-4. **Resilienza della Svizzera**  
-   - La Svizzera si conferma come un outlier positivo, con valori elevati e stabili durante l’intero arco temporale.  
-   - La sua stabilità distingue nettamente il Paese da molti membri dell’UE, evidenziando fattori strutturali di resilienza economica, sociale e politica.  
-   - Questo comportamento suggerisce che la combinazione di istituzioni forti, servizi pubblici di qualità e coesione sociale può attenuare l’impatto delle crisi sul benessere.
+Why it matters
 
-5. **Pattern emergenti dalle visualizzazioni interattive**  
-   - Le mappe e i grafici a linee permettono di identificare facilmente aree di recupero, zone di vulnerabilità e divergenze temporanee tra Paesi.  
-   - Lo slider temporale evidenzia come i Paesi reagiscano diversamente agli stessi shock, fornendo indicazioni importanti per politiche mirate di benessere.
+It highlights Switzerland as a positive outlier in terms of both level and stability of well-being, supporting the “stability heaven” narrative also suggested by macro indicators such as CPI, GDP per capita, unemployment, and CHF/EUR exchange rate.
+​
 
-In sintesi, l’analisi conferma che il benessere europeo è influenzato sia da fattori strutturali a lungo termine sia da eventi storici specifici, con Paesi come la Svizzera che rappresentano modelli di resilienza da cui è possibile trarre importanti lezioni.
+It shows which countries are more exposed to shocks and which are more resilient, suggesting that strong institutions, high-quality public services, and social cohesion can mitigate the impact of crises on well-being.
+​
 
-## Next steps
-Tellus rutrum tellus pellentesque eu. Dictum sit amet justo donec enim. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Sed faucibus turpis in eu mi bibendum neque egestas congue. Tellus in metus vulputate eu scelerisque felis imperdiet proin. Dolor magna eget est lorem ipsum dolor. Sit amet mattis vulputate enim nulla. Elit pellentesque habitant morbi tristique senectus et.
+Internal repository link:
+[Switzerland vs Europe](https://github.com/NathaFerrari/dataviz_project#3-confronto-svizzera-vs-resto-deuropa)
+
+Key findings
+The data analysis and interactive visualizations reveal several key results about the evolution of well-being in Europe between 2000 and 2024.
+​
+
+Marked geographical differences
+
+Northern and Central European countries consistently show higher well-being levels than many Southern and Eastern European economies, which start from lower values but often improve over time.
+​
+
+Countries such as Finland, Norway, and Switzerland rank among the highest across multiple dimensions, while some Southern and Eastern countries appear more sensitive to shocks and display larger index fluctuations.
+​
+
+Impact of historical shocks
+
+The main crises (2008–2012, COVID-19, post-2021 inflation, war in Ukraine) leave visible marks in the index, with downturns of varying magnitude across countries.
+​
+
+The global financial crisis produces the strongest and most widespread contraction, while the pandemic generates a moderate but generalised impact; the effects of the war in Ukraine are more heterogeneous and depend on each country’s specific exposure.
+​
+
+Long-term trends
+
+Despite shocks, many European regions show a generally upward trajectory in well-being, especially where welfare systems and labour markets are relatively robust.
+​
+
+Some countries gradually reduce internal gaps, while others exhibit stagnation or heightened vulnerability, with signs of polarisation in the most crisis-sensitive dimensions.
+​
+
+Resilience of Switzerland
+
+Switzerland maintains a profile characterised by high levels and low volatility of the well-being index, with only mild and short-lived deviations during major crises, confirming the strength of its economic and social structure.
+​
+
+Indicators such as high income, low long-term unemployment, strong perceived safety, robust social support, and the stability of the Swiss franc contribute to cushioning the impact of shocks on well-being.
+​
+
+Patterns emerging from interactive visualizations
+
+Maps and line charts make it easy to identify areas of recovery, zones of persistent vulnerability, and temporary divergences between countries, which can inform more targeted policies.
+​
+
+The time slider and crisis-focused views reveal that countries react differently to the same shock, suggesting that institutional, historical, and policy factors play a crucial role in shaping well-being dynamics.
+​
+
+Overall, the analysis confirms that European well-being results from the interaction between long-term structural factors and specific historical shocks, with Switzerland standing out as a resilient case from which important lessons for well-being-oriented policies can be drawn.
+​
+
+Next steps
+Several extensions are planned to further develop the project.
+​
+
+Include countries directly involved in the Ukraine war
+Collecting consistent data for Russia and Ukraine would allow the construction of a comparable well-being index and enable direct analysis of the conflict’s impact on the populations involved, beyond the indirect effects currently visible in other European countries.
+​
+
+Deepen the analysis of internal inequalities
+Using the distributional dimensions of the OECD data (gender, age, education) would make it possible to study how crises affect specific groups within the same country, enriching the aggregate picture given by the overall index.
+​
+
+Expand interactive visualizations
+Adding comparative views for clusters of countries (euro area, Nordics, Eastern Europe) and more advanced filtering tools would allow users to build custom comparisons across countries, well-being dimensions, and historical periods.
+​
+
+Link to policy and scenario analysis
+Connecting the evolution of the index with specific public policies (e.g. anti-crisis measures, income support, labour market policies) could help identify which interventions are most effective in protecting well-being during shocks.
+​
+
+These developments would turn the project into an even more valuable tool for understanding and communicating well-being dynamics in Europe in a context of recurring crises.
